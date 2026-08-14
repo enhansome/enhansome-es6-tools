@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T10:35:07Z",
+            "last_commit": "2026-08-14T00:16:12Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43979
+            "stars": 43980
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2024-12-10T08:25:16Z",
             "owner": "google",
             "repo": "traceur-compiler",
-            "stars": 8130
+            "stars": 8129
           }
         },
         {
@@ -1028,7 +1028,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T13:46:38Z",
+            "last_commit": "2026-08-14T11:07:36Z",
             "owner": "zloirock",
             "repo": "core-js",
             "stars": 25516
@@ -1461,7 +1461,7 @@
             "last_commit": "2024-12-10T08:25:16Z",
             "owner": "google",
             "repo": "traceur-compiler",
-            "stars": 8130
+            "stars": 8129
           }
         },
         {
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:51:54.079Z",
+    "last_updated": "2026-08-14T14:45:41.020Z",
     "original_repository": "addyosmani/es6-tools",
     "original_repository_sha": "0f2b035833ad9c7158e216f2ffc6bd3774e9689c",
     "enhanced_repository": "enhansome/enhansome-es6-tools",
