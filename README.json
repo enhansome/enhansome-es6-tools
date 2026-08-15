@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T00:16:12Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43980
+            "stars": 43983
           }
         },
         {
@@ -1028,10 +1028,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T11:07:36Z",
+            "last_commit": "2026-08-15T14:12:43Z",
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25516
+            "stars": 25517
           }
         },
         {
@@ -1045,7 +1045,7 @@
             "last_commit": "2022-11-14T21:47:12Z",
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7256
+            "stars": 7255
           }
         },
         {
@@ -1059,7 +1059,7 @@
             "last_commit": "2026-04-16T04:37:38Z",
             "owner": "paulmillr",
             "repo": "es6-shim",
-            "stars": 3102
+            "stars": 3101
           }
         },
         {
@@ -1447,7 +1447,7 @@
             "last_commit": "2026-07-28T06:47:35Z",
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11428
+            "stars": 11429
           }
         },
         {
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:45:41.020Z",
+    "last_updated": "2026-08-15T14:14:58.982Z",
     "original_repository": "addyosmani/es6-tools",
     "original_repository_sha": "0f2b035833ad9c7158e216f2ffc6bd3774e9689c",
     "enhanced_repository": "enhansome/enhansome-es6-tools",
