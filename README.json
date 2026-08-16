@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T00:16:12Z",
+            "last_commit": "2026-08-16T08:21:06Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43983
+            "stars": 43984
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2026-07-21T18:39:23Z",
             "owner": "babel",
             "repo": "gulp-babel",
-            "stars": 1307
+            "stars": 1308
           }
         },
         {
@@ -601,7 +601,7 @@
             "last_commit": "2026-08-04T14:59:39Z",
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4839
+            "stars": 4838
           }
         },
         {
@@ -873,7 +873,7 @@
             "last_commit": "2026-08-04T14:59:39Z",
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4839
+            "stars": 4838
           }
         },
         {
@@ -1028,10 +1028,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T14:12:43Z",
+            "last_commit": "2026-08-16T13:34:22Z",
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25517
+            "stars": 25519
           }
         },
         {
@@ -1475,7 +1475,7 @@
             "last_commit": "2026-05-01T13:47:12Z",
             "owner": "estree",
             "repo": "estree",
-            "stars": 5422
+            "stars": 5423
           }
         },
         {
@@ -1509,7 +1509,7 @@
             "last_commit": "2026-08-10T13:07:45Z",
             "owner": "benjamn",
             "repo": "recast",
-            "stars": 5253
+            "stars": 5254
           }
         },
         {
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:14:58.982Z",
+    "last_updated": "2026-08-16T14:15:48.051Z",
     "original_repository": "addyosmani/es6-tools",
     "original_repository_sha": "0f2b035833ad9c7158e216f2ffc6bd3774e9689c",
     "enhanced_repository": "enhansome/enhansome-es6-tools",
