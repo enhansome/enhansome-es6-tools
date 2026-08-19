@@ -132,7 +132,7 @@
 
 ## Polyfills
 
-* [core-js](https://github.com/zloirock/core-js) ⭐ 25,521 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-18 - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel) ⭐ 43,987 | 🐛 771 | 🌐 TypeScript | 📅 2026-08-16.
+* [core-js](https://github.com/zloirock/core-js) ⭐ 25,521 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-19 - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel) ⭐ 43,987 | 🐛 771 | 🌐 TypeScript | 📅 2026-08-16.
 * [es6-promise](https://github.com/jakearchibald/es6-promise) ⭐ 7,253 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - polyfill for Promises matching the ES6 API
 * [es6-shim](https://github.com/paulmillr/es6-shim) ⭐ 3,101 | 🐛 35 | 🌐 JavaScript | 📅 2026-04-16 - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
 * [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md) ⚠️ Archived
