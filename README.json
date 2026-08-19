@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24560307,
             "language": "TypeScript",
             "last_commit": "2026-08-16T08:21:06Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43983
+            "stars": 43987
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9060347,
             "language": "JavaScript",
             "last_commit": "2024-12-10T08:25:16Z",
             "owner": "google",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30953633,
             "language": "JavaScript",
             "last_commit": "2026-04-01T08:32:33Z",
             "owner": "lebab",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 13346571,
             "language": "JavaScript",
             "last_commit": "2024-02-29T11:04:34Z",
             "owner": "facebook",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24835467,
             "language": "JavaScript",
             "last_commit": "2021-08-06T15:16:27Z",
             "owner": "babel",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 8145816,
             "language": "JavaScript",
             "last_commit": "2015-10-19T23:37:45Z",
             "owner": "esnext",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8927771,
             "language": "JavaScript",
             "last_commit": "2017-06-12T01:47:33Z",
             "owner": "thlorenz",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 11888510,
             "language": "JavaScript",
             "last_commit": "2016-08-15T16:20:40Z",
             "owner": "facebookarchive",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23291630,
             "language": "JavaScript",
             "last_commit": "2024-09-18T15:57:11Z",
             "owner": "mathiasbynens",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14666108,
             "language": "JavaScript",
             "last_commit": "2014-07-04T15:45:38Z",
             "owner": "jlongster",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11456310,
             "language": "JavaScript",
             "last_commit": "2015-07-19T10:54:16Z",
             "owner": "termi",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9640609,
             "language": "JavaScript",
             "last_commit": "2019-11-06T16:35:42Z",
             "owner": "olov",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13895032,
             "language": "JavaScript",
             "last_commit": "2014-12-09T17:52:48Z",
             "owner": "DavyJonesLocker",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18743512,
             "language": "JavaScript",
             "last_commit": "2022-06-01T21:46:36Z",
             "owner": "stealjs",
@@ -203,392 +217,416 @@
       "title": "Transpilers"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Babel: gulp-babel",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24635108,
+                "language": "JavaScript",
+                "last_commit": "2026-07-21T18:39:23Z",
+                "owner": "babel",
+                "repo": "gulp-babel",
+                "stars": 1308
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TypeScript: gulp-typescript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19606628,
+                "language": "JavaScript",
+                "last_commit": "2023-02-02T19:34:24Z",
+                "owner": "ivogabe",
+                "repo": "gulp-typescript",
+                "stars": 852
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Traceur: gulp-traceur",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 15361133,
+                "language": "JavaScript",
+                "last_commit": "2021-01-23T12:02:11Z",
+                "owner": "sindresorhus",
+                "repo": "gulp-traceur",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ES6 Module Transpiler: gulp-es6-module-transpiler",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15502056,
+                "language": "JavaScript",
+                "last_commit": "2022-03-09T09:23:37Z",
+                "owner": "ryanseddon",
+                "repo": "gulp-es6-module-transpiler",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "es6-transpiler: gulp-es6-transpiler",
+              "description": "ES6 → ES5",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 15598752,
+                "language": "JavaScript",
+                "last_commit": "2015-11-14T13:03:05Z",
+                "owner": "sindresorhus",
+                "repo": "gulp-es6-transpiler",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Regenerator: gulp-regenerator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 15347727,
+                "language": "JavaScript",
+                "last_commit": "2021-01-23T11:54:09Z",
+                "owner": "sindresorhus",
+                "repo": "gulp-regenerator",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "es6-jstransform: gulp-jstransform",
+              "description": "ES6 → ES5 using FB's jstransform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19069958,
+                "language": "JavaScript",
+                "last_commit": "2026-01-29T04:23:52Z",
+                "owner": "hemanth",
+                "repo": "gulp-jstransform",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "regexpu: gulp-regexpu",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23291741,
+                "language": "JavaScript",
+                "last_commit": "2015-02-15T16:08:47Z",
+                "owner": "mathiasbynens",
+                "repo": "gulp-regexpu",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Gulp Plugins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Babel: grunt-babel",
+              "description": "Turn ES6+ code into vanilla ES5 with no runtime",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24841962,
+                "language": "JavaScript",
+                "last_commit": "2026-06-18T11:16:39Z",
+                "owner": "babel",
+                "repo": "grunt-babel",
+                "stars": 434
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TypeScript: grunt-ts",
+              "description": "ES6+ > ES5/ES3 transpilation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10748878,
+                "language": "JavaScript",
+                "last_commit": "2022-12-07T17:51:37Z",
+                "owner": "TypeStrong",
+                "repo": "grunt-ts",
+                "stars": 327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Traceur: grunt-traceur",
+              "description": "ES6 > ES5 transpilation, grunt-traceur-build",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8301541,
+                "language": "JavaScript",
+                "last_commit": "2022-12-06T18:15:15Z",
+                "owner": "aaronfrost",
+                "repo": "grunt-traceur",
+                "stars": 202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ES6 Module Transpiler: grunt-es6-module-transpiler",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9511838,
+                "language": "JavaScript",
+                "last_commit": "2016-02-20T22:10:43Z",
+                "owner": "joefiorini",
+                "repo": "grunt-es6-module-transpiler",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "grunt-microlib",
+              "description": "tools for libs using ES6 module transpiler (sample Gruntfile)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 10390405,
+                "language": "JavaScript",
+                "last_commit": "2013-07-19T00:22:16Z",
+                "owner": "thomasboyt",
+                "repo": "grunt-microlib",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Regenerator: grunt-regenerator",
+              "description": "ES6 generator functions to ES5",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 13799293,
+                "language": "JavaScript",
+                "last_commit": "2021-01-23T11:43:18Z",
+                "owner": "sindresorhus",
+                "repo": "grunt-regenerator",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "es6-transpiler: grunt-es6-transpiler",
+              "description": "ES6 → ES5",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 15598697,
+                "language": "JavaScript",
+                "last_commit": "2015-11-14T13:01:37Z",
+                "owner": "sindresorhus",
+                "repo": "grunt-es6-transpiler",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "grunt-defs",
+              "description": "ES6 block scoped const and let variables, to ES3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11197636,
+                "language": "JavaScript",
+                "last_commit": "2017-08-16T12:00:40Z",
+                "owner": "EE",
+                "repo": "grunt-defs",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Grunt Tasks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Babel: broccoli-babel-transpiler",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25077882,
+                "language": "JavaScript",
+                "last_commit": "2025-04-01T18:51:15Z",
+                "owner": "ember-cli",
+                "repo": "broccoli-babel-transpiler",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Traceur: broccoli-traceur",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 17019941,
+                "language": "JavaScript",
+                "last_commit": "2021-01-23T08:23:26Z",
+                "owner": "sindresorhus",
+                "repo": "broccoli-traceur",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ES6 Transpiler: broccoli-transpiler",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 17154293,
+                "language": "JavaScript",
+                "last_commit": "2021-01-23T08:18:50Z",
+                "owner": "sindresorhus",
+                "repo": "broccoli-es6-transpiler",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Regenerator: broccoli-regenerator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 17040343,
+                "language": "JavaScript",
+                "last_commit": "2021-01-23T08:20:57Z",
+                "owner": "sindresorhus",
+                "repo": "broccoli-regenerator",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ES6 Module Transpiler: broccoli-es6-module-transpiler",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18482729,
+                "language": "JavaScript",
+                "last_commit": "2014-12-16T17:09:20Z",
+                "owner": "mmun",
+                "repo": "broccoli-es6-module-transpiler",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ES6 fat arrow transpiler: broccoli-es6-arrow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17136223,
+                "language": "JavaScript",
+                "last_commit": "2023-12-01T15:12:34Z",
+                "owner": "hemanth",
+                "repo": "broccoli-es6-arrow",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TypeScript: broccoli-tsc",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34666379,
+                "language": "TypeScript",
+                "last_commit": "2015-05-20T20:05:58Z",
+                "owner": "ngParty",
+                "repo": "broccoli-tsc",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Broccoli Plugins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Babel: babel-brunch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24654145,
+                "language": "JavaScript",
+                "last_commit": "2021-08-10T19:35:52Z",
+                "owner": "babel",
+                "repo": "babel-brunch",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ES6 Module Transpiler: es6-module-transpiler-brunch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 14644924,
+                "language": "CoffeeScript",
+                "last_commit": "2013-11-25T20:07:30Z",
+                "owner": "gcollazo",
+                "repo": "es6-module-transpiler-brunch",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Brunch Plugins"
+        }
+      ],
       "title": "Build-time transpilation"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Babel: gulp-babel",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-21T18:39:23Z",
-            "owner": "babel",
-            "repo": "gulp-babel",
-            "stars": 1308
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeScript: gulp-typescript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-02-02T19:34:24Z",
-            "owner": "ivogabe",
-            "repo": "gulp-typescript",
-            "stars": 852
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Traceur: gulp-traceur",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-01-23T12:02:11Z",
-            "owner": "sindresorhus",
-            "repo": "gulp-traceur",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ES6 Module Transpiler: gulp-es6-module-transpiler",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-03-09T09:23:37Z",
-            "owner": "ryanseddon",
-            "repo": "gulp-es6-module-transpiler",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "es6-transpiler: gulp-es6-transpiler",
-          "description": "ES6 → ES5",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2015-11-14T13:03:05Z",
-            "owner": "sindresorhus",
-            "repo": "gulp-es6-transpiler",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Regenerator: gulp-regenerator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-01-23T11:54:09Z",
-            "owner": "sindresorhus",
-            "repo": "gulp-regenerator",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "es6-jstransform: gulp-jstransform",
-          "description": "ES6 → ES5 using FB's jstransform",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-29T04:23:52Z",
-            "owner": "hemanth",
-            "repo": "gulp-jstransform",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "regexpu: gulp-regexpu",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2015-02-15T16:08:47Z",
-            "owner": "mathiasbynens",
-            "repo": "gulp-regexpu",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Gulp Plugins"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Babel: grunt-babel",
-          "description": "Turn ES6+ code into vanilla ES5 with no runtime",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-18T11:16:39Z",
-            "owner": "babel",
-            "repo": "grunt-babel",
-            "stars": 434
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeScript: grunt-ts",
-          "description": "ES6+ > ES5/ES3 transpilation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-07T17:51:37Z",
-            "owner": "TypeStrong",
-            "repo": "grunt-ts",
-            "stars": 327
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Traceur: grunt-traceur",
-          "description": "ES6 > ES5 transpilation, grunt-traceur-build",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-06T18:15:15Z",
-            "owner": "aaronfrost",
-            "repo": "grunt-traceur",
-            "stars": 202
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ES6 Module Transpiler: grunt-es6-module-transpiler",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-02-20T22:10:43Z",
-            "owner": "joefiorini",
-            "repo": "grunt-es6-module-transpiler",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "grunt-microlib",
-          "description": "tools for libs using ES6 module transpiler (sample Gruntfile)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2013-07-19T00:22:16Z",
-            "owner": "thomasboyt",
-            "repo": "grunt-microlib",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Regenerator: grunt-regenerator",
-          "description": "ES6 generator functions to ES5",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-01-23T11:43:18Z",
-            "owner": "sindresorhus",
-            "repo": "grunt-regenerator",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "es6-transpiler: grunt-es6-transpiler",
-          "description": "ES6 → ES5",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2015-11-14T13:01:37Z",
-            "owner": "sindresorhus",
-            "repo": "grunt-es6-transpiler",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "grunt-defs",
-          "description": "ES6 block scoped const and let variables, to ES3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-08-16T12:00:40Z",
-            "owner": "EE",
-            "repo": "grunt-defs",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Grunt Tasks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Babel: broccoli-babel-transpiler",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-04-01T18:51:15Z",
-            "owner": "ember-cli",
-            "repo": "broccoli-babel-transpiler",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Traceur: broccoli-traceur",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-01-23T08:23:26Z",
-            "owner": "sindresorhus",
-            "repo": "broccoli-traceur",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ES6 Transpiler: broccoli-transpiler",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-01-23T08:18:50Z",
-            "owner": "sindresorhus",
-            "repo": "broccoli-es6-transpiler",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Regenerator: broccoli-regenerator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-01-23T08:20:57Z",
-            "owner": "sindresorhus",
-            "repo": "broccoli-regenerator",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ES6 Module Transpiler: broccoli-es6-module-transpiler",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2014-12-16T17:09:20Z",
-            "owner": "mmun",
-            "repo": "broccoli-es6-module-transpiler",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ES6 fat arrow transpiler: broccoli-es6-arrow",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-12-01T15:12:34Z",
-            "owner": "hemanth",
-            "repo": "broccoli-es6-arrow",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeScript: broccoli-tsc",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2015-05-20T20:05:58Z",
-            "owner": "ngParty",
-            "repo": "broccoli-tsc",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Broccoli Plugins"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Babel: babel-brunch",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-08-10T19:35:52Z",
-            "owner": "babel",
-            "repo": "babel-brunch",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ES6 Module Transpiler: es6-module-transpiler-brunch",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "CoffeeScript",
-            "last_commit": "2013-11-25T20:07:30Z",
-            "owner": "gcollazo",
-            "repo": "es6-module-transpiler-brunch",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeScript: typescript-brunch",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "Brunch Plugins"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -597,6 +635,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24963784,
             "language": "JavaScript",
             "last_commit": "2026-08-04T14:59:39Z",
             "owner": "babel",
@@ -611,6 +650,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 31077672,
             "language": "TypeScript",
             "last_commit": "2019-10-31T17:37:45Z",
             "owner": "s-panferov",
@@ -625,6 +665,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31832267,
             "language": "JavaScript",
             "last_commit": "2015-03-08T22:40:32Z",
             "owner": "PatrickJS",
@@ -636,7 +677,7 @@
       "title": "Webpack plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -645,6 +686,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 27807280,
             "language": "JavaScript",
             "last_commit": "2016-04-10T18:00:02Z",
             "owner": "babel",
@@ -659,6 +701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28366446,
             "language": "JavaScript",
             "last_commit": "2015-06-10T23:04:45Z",
             "owner": "frankwallis",
@@ -670,7 +713,7 @@
       "title": "Duo plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -679,6 +722,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 24835464,
             "language": "JavaScript",
             "last_commit": "2016-09-08T15:41:57Z",
             "owner": "babel",
@@ -693,6 +737,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19141967,
             "language": "JavaScript",
             "last_commit": "2017-03-02T09:02:46Z",
             "owner": "brn",
@@ -704,7 +749,7 @@
       "title": "Connect plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -713,6 +758,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 26648428,
             "language": "JavaScript",
             "last_commit": "2016-01-26T16:07:41Z",
             "owner": "babel",
@@ -727,6 +773,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23190650,
             "language": "JavaScript",
             "last_commit": "2015-01-12T03:32:20Z",
             "owner": "gobblejs",
@@ -738,7 +785,7 @@
       "title": "Gobble plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -747,6 +794,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25969587,
             "language": "JavaScript",
             "last_commit": "2023-09-25T08:55:03Z",
             "owner": "babel",
@@ -761,6 +809,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14427515,
             "language": "TypeScript",
             "last_commit": "2022-12-03T03:25:59Z",
             "owner": "sergeyt",
@@ -775,6 +824,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 15367099,
             "language": "JavaScript",
             "last_commit": "2016-05-11T13:23:09Z",
             "owner": "karma-runner",
@@ -786,7 +836,7 @@
       "title": "Karma plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -795,6 +845,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6057844,
             "language": "Ruby",
             "last_commit": "2016-11-13T09:53:20Z",
             "owner": "typescript-ruby",
@@ -809,24 +860,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21050332,
             "language": "Ruby",
             "last_commit": "2015-10-07T10:31:46Z",
             "owner": "gunpowderlabs",
             "repo": "sprockets-traceur",
             "stars": 24
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Babel: sprockets-es6",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Sprockets plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -835,6 +881,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17039339,
             "language": "JavaScript",
             "last_commit": "2022-08-06T00:07:05Z",
             "owner": "richgilbank",
@@ -849,6 +896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20179066,
             "language": "JavaScript",
             "last_commit": "2017-05-03T19:46:39Z",
             "owner": "mrkev",
@@ -860,7 +908,7 @@
       "title": "Browser plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -869,6 +917,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24963784,
             "language": "JavaScript",
             "last_commit": "2026-08-04T14:59:39Z",
             "owner": "babel",
@@ -883,6 +932,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 4380969,
             "language": "JavaScript",
             "last_commit": "2018-07-15T12:57:18Z",
             "owner": "ModuleLoader",
@@ -897,6 +947,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9477360,
             "language": "JavaScript",
             "last_commit": "2014-02-28T21:51:01Z",
             "owner": "jorendorff",
@@ -911,6 +962,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11201012,
             "language": "JavaScript",
             "last_commit": "2013-12-17T22:00:48Z",
             "owner": "unscriptable",
@@ -922,7 +974,7 @@
       "title": "Module Loaders"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -931,6 +983,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37381389,
             "language": "JavaScript",
             "last_commit": "2016-08-11T18:44:37Z",
             "owner": "alexweber",
@@ -945,6 +998,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20906017,
             "language": "JavaScript",
             "last_commit": "2018-02-06T19:58:15Z",
             "owner": "davidjnelson",
@@ -956,7 +1010,7 @@
       "title": "Boilerplates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -965,6 +1019,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12012668,
             "language": "JavaScript",
             "last_commit": "2013-11-30T19:29:12Z",
             "owner": "ryanflorence",
@@ -979,6 +1034,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32796695,
             "language": "JavaScript",
             "last_commit": "2015-09-05T23:44:58Z",
             "owner": "HenriqueLimas",
@@ -993,6 +1049,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19565569,
             "language": "JavaScript",
             "last_commit": "2014-11-18T18:05:36Z",
             "owner": "briandipalma",
@@ -1007,6 +1064,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47757160,
             "language": "JavaScript",
             "last_commit": "2015-12-11T19:30:04Z",
             "owner": "HenriqueLimas",
@@ -1018,7 +1076,7 @@
       "title": "Code generation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1027,6 +1085,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11481338,
             "language": "JavaScript",
             "last_commit": "2026-08-18T14:24:02Z",
             "owner": "zloirock",
@@ -1041,11 +1100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15046172,
             "language": "JavaScript",
             "last_commit": "2022-11-14T21:47:12Z",
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7254
+            "stars": 7253
           }
         },
         {
@@ -1055,6 +1115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3046507,
             "language": "JavaScript",
             "last_commit": "2026-04-16T04:37:38Z",
             "owner": "paulmillr",
@@ -1069,6 +1130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9928100,
             "language": "JavaScript",
             "last_commit": "2021-08-13T20:46:50Z",
             "owner": "inexorabletash",
@@ -1083,6 +1145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16457190,
             "language": "JavaScript",
             "last_commit": "2023-11-05T18:16:06Z",
             "owner": "sindresorhus",
@@ -1097,6 +1160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3380952,
             "language": "JavaScript",
             "last_commit": "2024-01-15T13:33:29Z",
             "owner": "tvcutsem",
@@ -1111,6 +1175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14423385,
             "language": "JavaScript",
             "last_commit": "2024-03-01T13:27:04Z",
             "owner": "medikoo",
@@ -1125,6 +1190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15080795,
             "language": "JavaScript",
             "last_commit": "2024-09-27T14:43:35Z",
             "owner": "mathiasbynens",
@@ -1139,6 +1205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15080784,
             "language": "JavaScript",
             "last_commit": "2024-10-15T07:02:08Z",
             "owner": "mathiasbynens",
@@ -1153,6 +1220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15342606,
             "language": "JavaScript",
             "last_commit": "2024-03-23T05:45:10Z",
             "owner": "mathiasbynens",
@@ -1167,6 +1235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12971692,
             "language": "JavaScript",
             "last_commit": "2024-02-06T06:00:40Z",
             "owner": "mathiasbynens",
@@ -1181,6 +1250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12971694,
             "language": "JavaScript",
             "last_commit": "2024-10-17T14:35:07Z",
             "owner": "mathiasbynens",
@@ -1195,6 +1265,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 13682628,
             "language": "JavaScript",
             "last_commit": "2020-11-19T07:38:04Z",
             "owner": "mathiasbynens",
@@ -1209,6 +1280,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 12597764,
             "language": "JavaScript",
             "last_commit": "2014-10-14T21:40:42Z",
             "owner": "googlearchive",
@@ -1223,6 +1295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15341310,
             "language": "JavaScript",
             "last_commit": "2024-03-19T05:09:14Z",
             "owner": "paulmillr",
@@ -1237,6 +1310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15080799,
             "language": "JavaScript",
             "last_commit": "2024-03-20T17:17:33Z",
             "owner": "mathiasbynens",
@@ -1251,6 +1325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15079699,
             "language": "JavaScript",
             "last_commit": "2021-01-16T01:49:53Z",
             "owner": "mathiasbynens",
@@ -1265,6 +1340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15341316,
             "language": "JavaScript",
             "last_commit": "2024-12-17T21:58:09Z",
             "owner": "paulmillr",
@@ -1279,6 +1355,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 6655909,
             "language": "JavaScript",
             "last_commit": "2014-10-12T17:17:15Z",
             "owner": "eriwen",
@@ -1293,6 +1370,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 22609678,
             "language": "JavaScript",
             "last_commit": "2021-04-07T07:09:34Z",
             "owner": "sindresorhus",
@@ -1307,6 +1385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15342110,
             "language": "JavaScript",
             "last_commit": "2024-09-05T05:30:47Z",
             "owner": "mathiasbynens",
@@ -1321,6 +1400,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 24840812,
             "language": "JavaScript",
             "last_commit": "2021-04-07T06:02:52Z",
             "owner": "sindresorhus",
@@ -1335,6 +1415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22032957,
             "language": "JavaScript",
             "last_commit": "2014-07-20T12:55:29Z",
             "owner": "mathiasbynens",
@@ -1349,6 +1430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8228362,
             "language": "JavaScript",
             "last_commit": "2013-02-17T00:24:47Z",
             "owner": "walling",
@@ -1363,6 +1445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22032954,
             "language": "JavaScript",
             "last_commit": "2014-07-20T12:55:43Z",
             "owner": "mathiasbynens",
@@ -1377,24 +1460,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 6926531,
             "language": "JavaScript",
             "last_commit": "2015-11-09T16:58:00Z",
             "owner": "EliSnow",
             "repo": "Blitz-Collections",
             "stars": 5
           }
-        },
-        {
-          "node_type": "item",
-          "title": "WeakMap, Map, Set, HashMap - ES6 Collections",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Polyfills"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1403,6 +1481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34526872,
             "language": "CoffeeScript",
             "last_commit": "2020-01-15T15:32:49Z",
             "owner": "gandm",
@@ -1417,24 +1496,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102026129,
             "language": null,
             "last_commit": "2018-07-16T18:49:35Z",
             "owner": "Benvie",
             "repo": "JavaScriptNext.tmLanguage",
             "stars": 33
           }
-        },
-        {
-          "node_type": "item",
-          "title": "DocPad plugin",
-          "description": "for Traceur",
-          "children": []
         }
       ],
       "title": "Editors"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1443,11 +1517,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5932749,
             "language": "JavaScript",
             "last_commit": "2026-07-28T06:47:35Z",
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11432
+            "stars": 11433
           }
         },
         {
@@ -1457,6 +1532,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9060347,
             "language": "JavaScript",
             "last_commit": "2024-12-10T08:25:16Z",
             "owner": "google",
@@ -1471,6 +1547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30678623,
             "language": null,
             "last_commit": "2026-05-01T13:47:12Z",
             "owner": "estree",
@@ -1485,6 +1562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18199707,
             "language": "JavaScript",
             "last_commit": "2018-09-21T23:03:06Z",
             "owner": "zenparsing",
@@ -1496,7 +1574,7 @@
       "title": "Parsers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1505,6 +1583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5905681,
             "language": "TypeScript",
             "last_commit": "2026-08-10T13:07:45Z",
             "owner": "benjamn",
@@ -1519,6 +1598,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 26655380,
             "language": "JavaScript",
             "last_commit": "2019-12-31T11:59:47Z",
             "owner": "douglasduteil",
@@ -1533,6 +1613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17178991,
             "language": "JavaScript",
             "last_commit": "2017-04-03T14:57:10Z",
             "owner": "hemanth",
@@ -1547,6 +1628,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 10040734,
             "language": null,
             "last_commit": "2017-04-16T04:42:32Z",
             "owner": "sindresorhus",
@@ -1561,6 +1643,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9147060,
             "language": "JavaScript",
             "last_commit": "2014-10-28T12:44:52Z",
             "owner": "getify",
@@ -1575,6 +1658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20294911,
             "language": "JavaScript",
             "last_commit": "2019-02-08T20:18:26Z",
             "owner": "juandopazo",
@@ -1589,6 +1673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20126989,
             "language": "JavaScript",
             "last_commit": "2025-07-17T07:17:17Z",
             "owner": "hemanth",
@@ -1603,6 +1688,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 13316892,
             "language": "JavaScript",
             "last_commit": "2013-10-06T21:55:49Z",
             "owner": "wycats",
@@ -1617,6 +1703,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 16212151,
             "language": "JavaScript",
             "last_commit": "2014-05-16T14:34:37Z",
             "owner": "sproutsocial",
@@ -1631,6 +1718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19286965,
             "language": "JavaScript",
             "last_commit": "2018-08-29T13:05:27Z",
             "owner": "calvinmetcalf",
@@ -1643,8 +1731,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:26:09.319Z",
+    "last_updated": "2026-08-19T12:30:27.015Z",
     "original_repository": "addyosmani/es6-tools",
+    "original_repository_id": 15325285,
     "original_repository_sha": "0f2b035833ad9c7158e216f2ffc6bd3774e9689c",
     "enhanced_repository": "enhansome/enhansome-es6-tools",
     "enhanced_repository_description": null,
