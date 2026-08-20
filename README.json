@@ -640,7 +640,7 @@
             "last_commit": "2026-08-04T14:59:39Z",
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4838
+            "stars": 4839
           }
         },
         {
@@ -922,7 +922,7 @@
             "last_commit": "2026-08-04T14:59:39Z",
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4838
+            "stars": 4839
           }
         },
         {
@@ -1087,7 +1087,7 @@
             "archived": false,
             "id": 11481338,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T13:21:43Z",
+            "last_commit": "2026-08-20T13:18:03Z",
             "owner": "zloirock",
             "repo": "core-js",
             "stars": 25521
@@ -1731,7 +1731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:25:55.093Z",
+    "last_updated": "2026-08-20T14:29:20.371Z",
     "original_repository": "addyosmani/es6-tools",
     "original_repository_id": 15325285,
     "original_repository_sha": "0f2b035833ad9c7158e216f2ffc6bd3774e9689c",
