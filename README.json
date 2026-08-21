@@ -15,7 +15,7 @@
             "last_commit": "2026-08-16T08:21:06Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43987
+            "stars": 43990
           }
         },
         {
@@ -937,7 +937,7 @@
             "last_commit": "2018-07-15T12:57:18Z",
             "owner": "ModuleLoader",
             "repo": "es-module-loader",
-            "stars": 2211
+            "stars": 2210
           }
         },
         {
@@ -1087,10 +1087,10 @@
             "archived": false,
             "id": 11481338,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T13:18:03Z",
+            "last_commit": "2026-08-20T19:58:47Z",
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25521
+            "stars": 25524
           }
         },
         {
@@ -1120,7 +1120,7 @@
             "last_commit": "2026-04-16T04:37:38Z",
             "owner": "paulmillr",
             "repo": "es6-shim",
-            "stars": 3101
+            "stars": 3099
           }
         },
         {
@@ -1150,7 +1150,7 @@
             "last_commit": "2023-11-05T18:16:06Z",
             "owner": "sindresorhus",
             "repo": "object-assign",
-            "stars": 917
+            "stars": 916
           }
         },
         {
@@ -1522,7 +1522,7 @@
             "last_commit": "2026-07-28T06:47:35Z",
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11433
+            "stars": 11435
           }
         },
         {
@@ -1552,7 +1552,7 @@
             "last_commit": "2026-05-01T13:47:12Z",
             "owner": "estree",
             "repo": "estree",
-            "stars": 5423
+            "stars": 5424
           }
         },
         {
@@ -1588,7 +1588,7 @@
             "last_commit": "2026-08-10T13:07:45Z",
             "owner": "benjamn",
             "repo": "recast",
-            "stars": 5254
+            "stars": 5255
           }
         },
         {
@@ -1731,7 +1731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:29:20.371Z",
+    "last_updated": "2026-08-21T14:27:35.664Z",
     "original_repository": "addyosmani/es6-tools",
     "original_repository_id": 15325285,
     "original_repository_sha": "0f2b035833ad9c7158e216f2ffc6bd3774e9689c",
