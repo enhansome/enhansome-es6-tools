@@ -12,10 +12,10 @@
             "archived": false,
             "id": 24560307,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T08:21:06Z",
+            "last_commit": "2026-08-21T19:41:05Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43990
+            "stars": 43989
           }
         },
         {
@@ -484,7 +484,7 @@
                 "archived": false,
                 "id": 25077882,
                 "language": "JavaScript",
-                "last_commit": "2025-04-01T18:51:15Z",
+                "last_commit": "2026-08-22T09:49:19Z",
                 "owner": "ember-cli",
                 "repo": "broccoli-babel-transpiler",
                 "stars": 58
@@ -640,7 +640,7 @@
             "last_commit": "2026-08-04T14:59:39Z",
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4839
+            "stars": 4838
           }
         },
         {
@@ -922,7 +922,7 @@
             "last_commit": "2026-08-04T14:59:39Z",
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4839
+            "stars": 4838
           }
         },
         {
@@ -1120,7 +1120,7 @@
             "last_commit": "2026-04-16T04:37:38Z",
             "owner": "paulmillr",
             "repo": "es6-shim",
-            "stars": 3099
+            "stars": 3098
           }
         },
         {
@@ -1522,7 +1522,7 @@
             "last_commit": "2026-07-28T06:47:35Z",
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11435
+            "stars": 11436
           }
         },
         {
@@ -1585,7 +1585,7 @@
             "archived": false,
             "id": 5905681,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T13:07:45Z",
+            "last_commit": "2026-08-21T18:07:46Z",
             "owner": "benjamn",
             "repo": "recast",
             "stars": 5255
@@ -1731,7 +1731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:27:35.664Z",
+    "last_updated": "2026-08-22T14:14:07.836Z",
     "original_repository": "addyosmani/es6-tools",
     "original_repository_id": 15325285,
     "original_repository_sha": "0f2b035833ad9c7158e216f2ffc6bd3774e9689c",
