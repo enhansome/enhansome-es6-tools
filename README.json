@@ -12,10 +12,10 @@
             "archived": false,
             "id": 24560307,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T19:41:05Z",
+            "last_commit": "2026-08-23T14:27:11Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43988
+            "stars": 43989
           }
         },
         {
@@ -484,7 +484,7 @@
                 "archived": false,
                 "id": 25077882,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T09:49:19Z",
+                "last_commit": "2026-08-24T08:08:38Z",
                 "owner": "ember-cli",
                 "repo": "broccoli-babel-transpiler",
                 "stars": 58
@@ -640,7 +640,7 @@
             "last_commit": "2026-08-04T14:59:39Z",
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4838
+            "stars": 4837
           }
         },
         {
@@ -789,6 +789,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Babel: jade-babel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 25034944,
+            "language": "JavaScript",
+            "last_commit": "2016-01-24T09:10:43Z",
+            "owner": "babel",
+            "repo": "jade-babel",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Jade plugins"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Babel: babel-jest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 26481435,
+            "language": null,
+            "last_commit": "2017-08-03T12:54:07Z",
+            "owner": "babel",
+            "repo": "babel-jest",
+            "stars": 138
+          }
+        }
+      ],
+      "title": "Jest plugins"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Babel: karma-babel-preprocessor",
           "description": null,
           "children": [],
@@ -922,7 +964,7 @@
             "last_commit": "2026-08-04T14:59:39Z",
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4838
+            "stars": 4837
           }
         },
         {
@@ -1087,10 +1129,10 @@
             "archived": false,
             "id": 11481338,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T18:43:21Z",
+            "last_commit": "2026-08-24T13:15:35Z",
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25524
+            "stars": 25526
           }
         },
         {
@@ -1140,7 +1182,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "object-assign",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1185,7 +1227,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "String.prototype.startsWith",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1200,7 +1242,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "String.prototype.includes",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1215,7 +1257,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "Array.from",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1230,7 +1272,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "String.fromCodePoint",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1245,7 +1287,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "String.prototype.codePointAt",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1260,7 +1302,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "String.prototype.at",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1290,7 +1332,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "Array.prototype.find",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1305,7 +1347,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "String.prototype.endsWith",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1320,7 +1362,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "String.prototype.repeat",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1335,7 +1377,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "Array.prototype.findIndex",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1365,7 +1407,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "is-finite",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1380,7 +1422,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "Array.of",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1395,7 +1437,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "math-sign",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1410,7 +1452,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "RegExp.prototype.match",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1425,7 +1467,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "Function.create.js",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1440,7 +1482,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "RegExp.prototype.search",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1731,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:16:35.441Z",
+    "last_updated": "2026-08-24T13:56:21.521Z",
     "original_repository": "addyosmani/es6-tools",
     "original_repository_id": 15325285,
     "original_repository_sha": "0f2b035833ad9c7158e216f2ffc6bd3774e9689c",
