@@ -1129,7 +1129,7 @@
             "archived": false,
             "id": 11481338,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T13:15:35Z",
+            "last_commit": "2026-08-24T14:27:38Z",
             "owner": "zloirock",
             "repo": "core-js",
             "stars": 25526
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:56:21.521Z",
+    "last_updated": "2026-08-24T14:48:09.986Z",
     "original_repository": "addyosmani/es6-tools",
     "original_repository_id": 15325285,
     "original_repository_sha": "0f2b035833ad9c7158e216f2ffc6bd3774e9689c",
