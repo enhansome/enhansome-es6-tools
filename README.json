@@ -12,10 +12,10 @@
             "archived": false,
             "id": 24560307,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T14:27:11Z",
+            "last_commit": "2026-08-25T12:57:57Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43989
+            "stars": 43986
           }
         },
         {
@@ -1129,7 +1129,7 @@
             "archived": false,
             "id": 11481338,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T21:58:20Z",
+            "last_commit": "2026-08-25T11:04:49Z",
             "owner": "zloirock",
             "repo": "core-js",
             "stars": 25526
@@ -1528,7 +1528,7 @@
             "last_commit": "2020-01-15T15:32:49Z",
             "owner": "gandm",
             "repo": "language-babel",
-            "stars": 472
+            "stars": 471
           }
         },
         {
@@ -1564,7 +1564,7 @@
             "last_commit": "2026-07-28T06:47:35Z",
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11439
+            "stars": 11440
           }
         },
         {
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:51:20.109Z",
+    "last_updated": "2026-08-25T14:37:53.355Z",
     "original_repository": "addyosmani/es6-tools",
     "original_repository_id": 15325285,
     "original_repository_sha": "0f2b035833ad9c7158e216f2ffc6bd3774e9689c",
