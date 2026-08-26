@@ -140,7 +140,7 @@
 * [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) ⭐ 482 | 🐛 8 | 🌐 JavaScript | 📅 2024-01-15 - ES6 [reflection module](http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api) (contains the [Proxy API](http://soft.vub.ac.be/~tvcutsem/proxies/))
 * [ES6 Symbol polyfill](https://github.com/medikoo/es6-symbol) ⭐ 179 | 🐛 2 | 🌐 JavaScript | 📅 2024-03-01
 * [`String.prototype.startsWith`](https://github.com/mathiasbynens/String.prototype.startsWith) ⭐ 142 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-27
-* [`String.prototype.includes`](https://github.com/mathiasbynens/String.prototype.includes) ⭐ 69 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-15
+* [`String.prototype.includes`](https://github.com/mathiasbynens/String.prototype.includes) ⭐ 70 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-15
 * [`Array.from`](https://github.com/mathiasbynens/Array.from) ⭐ 67 | 🐛 0 | 🌐 JavaScript | 📅 2024-03-23
 * [`String.fromCodePoint`](https://github.com/mathiasbynens/String.fromCodePoint) ⭐ 60 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-06
 * [`String.prototype.codePointAt`](https://github.com/mathiasbynens/String.prototype.codePointAt) ⭐ 55 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-17
@@ -196,4 +196,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

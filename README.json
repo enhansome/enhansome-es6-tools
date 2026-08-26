@@ -1129,7 +1129,7 @@
             "archived": false,
             "id": 11481338,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T11:04:49Z",
+            "last_commit": "2026-08-25T22:47:32Z",
             "owner": "zloirock",
             "repo": "core-js",
             "stars": 25526
@@ -1252,7 +1252,7 @@
             "last_commit": "2024-10-15T07:02:08Z",
             "owner": "mathiasbynens",
             "repo": "String.prototype.includes",
-            "stars": 69
+            "stars": 70
           }
         },
         {
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:37:53.355Z",
+    "last_updated": "2026-08-26T14:37:33.460Z",
     "original_repository": "addyosmani/es6-tools",
     "original_repository_id": 15325285,
     "original_repository_sha": "0f2b035833ad9c7158e216f2ffc6bd3774e9689c",
