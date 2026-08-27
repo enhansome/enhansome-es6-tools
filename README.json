@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T12:57:57Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43988
+            "stars": 43987
           }
         },
         {
@@ -1561,7 +1561,7 @@
             "archived": false,
             "id": 5932749,
             "language": "JavaScript",
-            "last_commit": "2026-07-28T06:47:35Z",
+            "last_commit": "2026-08-27T17:17:55Z",
             "owner": "acornjs",
             "repo": "acorn",
             "stars": 11441
@@ -1630,7 +1630,7 @@
             "last_commit": "2026-08-21T18:07:46Z",
             "owner": "benjamn",
             "repo": "recast",
-            "stars": 5255
+            "stars": 5254
           }
         },
         {
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:41:35.392Z",
+    "last_updated": "2026-08-27T23:26:26.509Z",
     "original_repository_info": {
       "archived": false,
       "id": 15325285,
