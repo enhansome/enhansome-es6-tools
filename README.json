@@ -12,11 +12,12 @@
             "archived": false,
             "id": 24560307,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T12:57:57Z",
+            "last_commit": "2026-08-28T02:39:56Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43987
-          }
+            "stars": 43985
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "google",
             "repo": "traceur-compiler",
             "stars": 8127
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "lebab",
             "repo": "lebab",
             "stars": 5637
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "facebook",
             "repo": "regenerator",
             "stars": 3825
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "babel",
             "repo": "babelify",
             "stars": 1677
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "esnext",
             "repo": "es6-module-transpiler",
             "stars": 1204
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "thlorenz",
             "repo": "es6ify",
             "stars": 590
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "facebookarchive",
             "repo": "jstransform",
             "stars": 480
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "mathiasbynens",
             "repo": "regexpu",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "jlongster",
             "repo": "es6-macros",
             "stars": 239
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "termi",
             "repo": "es6-transpiler",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "olov",
             "repo": "defs",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "DavyJonesLocker",
             "repo": "es6_module_transpiler-rails",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "stealjs",
             "repo": "transpile",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Transpilers"
@@ -234,7 +248,8 @@
                 "owner": "babel",
                 "repo": "gulp-babel",
                 "stars": 1308
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -249,7 +264,8 @@
                 "owner": "ivogabe",
                 "repo": "gulp-typescript",
                 "stars": 852
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -264,7 +280,8 @@
                 "owner": "sindresorhus",
                 "repo": "gulp-traceur",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -279,7 +296,8 @@
                 "owner": "ryanseddon",
                 "repo": "gulp-es6-module-transpiler",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -294,7 +312,8 @@
                 "owner": "sindresorhus",
                 "repo": "gulp-es6-transpiler",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -309,7 +328,8 @@
                 "owner": "sindresorhus",
                 "repo": "gulp-regenerator",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -324,7 +344,8 @@
                 "owner": "hemanth",
                 "repo": "gulp-jstransform",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -339,7 +360,8 @@
                 "owner": "mathiasbynens",
                 "repo": "gulp-regexpu",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             }
           ],
           "description": null,
@@ -361,7 +383,8 @@
                 "owner": "babel",
                 "repo": "grunt-babel",
                 "stars": 434
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -376,7 +399,8 @@
                 "owner": "TypeStrong",
                 "repo": "grunt-ts",
                 "stars": 327
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -391,7 +415,8 @@
                 "owner": "aaronfrost",
                 "repo": "grunt-traceur",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -406,7 +431,8 @@
                 "owner": "joefiorini",
                 "repo": "grunt-es6-module-transpiler",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -421,7 +447,8 @@
                 "owner": "thomasboyt",
                 "repo": "grunt-microlib",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -436,7 +463,8 @@
                 "owner": "sindresorhus",
                 "repo": "grunt-regenerator",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -451,7 +479,8 @@
                 "owner": "sindresorhus",
                 "repo": "grunt-es6-transpiler",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -466,7 +495,8 @@
                 "owner": "EE",
                 "repo": "grunt-defs",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             }
           ],
           "description": null,
@@ -488,7 +518,8 @@
                 "owner": "ember-cli",
                 "repo": "broccoli-babel-transpiler",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -503,7 +534,8 @@
                 "owner": "sindresorhus",
                 "repo": "broccoli-traceur",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -518,7 +550,8 @@
                 "owner": "sindresorhus",
                 "repo": "broccoli-es6-transpiler",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -533,7 +566,8 @@
                 "owner": "sindresorhus",
                 "repo": "broccoli-regenerator",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -548,7 +582,8 @@
                 "owner": "mmun",
                 "repo": "broccoli-es6-module-transpiler",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -563,7 +598,8 @@
                 "owner": "hemanth",
                 "repo": "broccoli-es6-arrow",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -578,7 +614,8 @@
                 "owner": "ngParty",
                 "repo": "broccoli-tsc",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             }
           ],
           "description": null,
@@ -600,7 +637,8 @@
                 "owner": "babel",
                 "repo": "babel-brunch",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             },
             {
               "node_type": "item",
@@ -615,7 +653,8 @@
                 "owner": "gcollazo",
                 "repo": "es6-module-transpiler-brunch",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:21:04.321Z"
             }
           ],
           "description": null,
@@ -641,7 +680,8 @@
             "owner": "babel",
             "repo": "babel-loader",
             "stars": 4837
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -656,7 +696,8 @@
             "owner": "s-panferov",
             "repo": "awesome-typescript-loader",
             "stars": 2338
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -671,7 +712,8 @@
             "owner": "PatrickJS",
             "repo": "traceur-compiler-loader",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Webpack plugins"
@@ -692,7 +734,8 @@
             "owner": "babel",
             "repo": "duo-babel",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -707,7 +750,8 @@
             "owner": "frankwallis",
             "repo": "duo-typescript",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Duo plugins"
@@ -728,7 +772,8 @@
             "owner": "babel",
             "repo": "babel-connect",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -743,7 +788,8 @@
             "owner": "brn",
             "repo": "typescript-middleware",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Connect plugins"
@@ -764,7 +810,8 @@
             "owner": "babel",
             "repo": "gobble-babel",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -779,7 +826,8 @@
             "owner": "gobblejs",
             "repo": "gobble-es6-transpiler",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Gobble plugins"
@@ -800,7 +848,8 @@
             "owner": "babel",
             "repo": "jade-babel",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Jade plugins"
@@ -821,7 +870,8 @@
             "owner": "babel",
             "repo": "babel-jest",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Jest plugins"
@@ -842,7 +892,8 @@
             "owner": "babel",
             "repo": "karma-babel-preprocessor",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -857,7 +908,8 @@
             "owner": "sergeyt",
             "repo": "karma-typescript-preprocessor",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -872,7 +924,8 @@
             "owner": "karma-runner",
             "repo": "karma-traceur-preprocessor",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Karma plugins"
@@ -893,7 +946,8 @@
             "owner": "typescript-ruby",
             "repo": "typescript-rails",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -908,7 +962,8 @@
             "owner": "gunpowderlabs",
             "repo": "sprockets-traceur",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Sprockets plugins"
@@ -929,7 +984,8 @@
             "owner": "richgilbank",
             "repo": "Scratch-JS",
             "stars": 349
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -944,7 +1000,8 @@
             "owner": "mrkev",
             "repo": "generator-typescript",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Browser plugins"
@@ -965,7 +1022,8 @@
             "owner": "babel",
             "repo": "babel-loader",
             "stars": 4837
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -980,7 +1038,8 @@
             "owner": "ModuleLoader",
             "repo": "es-module-loader",
             "stars": 2210
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -995,7 +1054,8 @@
             "owner": "jorendorff",
             "repo": "js-loaders",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1010,7 +1070,8 @@
             "owner": "unscriptable",
             "repo": "beck",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Module Loaders"
@@ -1031,7 +1092,8 @@
             "owner": "alexweber",
             "repo": "es6-jspm-gulp-boilerplate",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1046,7 +1108,8 @@
             "owner": "davidjnelson",
             "repo": "es6-boilerplate",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Boilerplates"
@@ -1067,7 +1130,8 @@
             "owner": "ryanflorence",
             "repo": "loom-generators-ember",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1082,7 +1146,8 @@
             "owner": "HenriqueLimas",
             "repo": "generator-es6-babel",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1097,7 +1162,8 @@
             "owner": "briandipalma",
             "repo": "generator-node-esnext",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1112,7 +1178,8 @@
             "owner": "HenriqueLimas",
             "repo": "generator-gulp-babelify",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Code generation"
@@ -1129,11 +1196,12 @@
             "archived": false,
             "id": 11481338,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T22:42:16Z",
+            "last_commit": "2026-08-28T18:17:54Z",
             "owner": "zloirock",
             "repo": "core-js",
             "stars": 25527
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1148,7 +1216,8 @@
             "owner": "stefanpenner",
             "repo": "es6-promise",
             "stars": 7253
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1163,7 +1232,8 @@
             "owner": "paulmillr",
             "repo": "es6-shim",
             "stars": 3098
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1178,7 +1248,8 @@
             "owner": "inexorabletash",
             "repo": "polyfill",
             "stars": 1352
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1193,7 +1264,8 @@
             "owner": "sindresorhus",
             "repo": "object-assign",
             "stars": 916
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1208,7 +1280,8 @@
             "owner": "tvcutsem",
             "repo": "harmony-reflect",
             "stars": 482
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1223,7 +1296,8 @@
             "owner": "medikoo",
             "repo": "es6-symbol",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1238,7 +1312,8 @@
             "owner": "mathiasbynens",
             "repo": "String.prototype.startsWith",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1253,7 +1328,8 @@
             "owner": "mathiasbynens",
             "repo": "String.prototype.includes",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1268,7 +1344,8 @@
             "owner": "mathiasbynens",
             "repo": "Array.from",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1283,7 +1360,8 @@
             "owner": "mathiasbynens",
             "repo": "String.fromCodePoint",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1298,7 +1376,8 @@
             "owner": "mathiasbynens",
             "repo": "String.prototype.codePointAt",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1313,7 +1392,8 @@
             "owner": "mathiasbynens",
             "repo": "String.prototype.at",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1328,7 +1408,8 @@
             "owner": "googlearchive",
             "repo": "WeakMap",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1343,7 +1424,8 @@
             "owner": "es-shims",
             "repo": "Array.prototype.find",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1358,7 +1440,8 @@
             "owner": "mathiasbynens",
             "repo": "String.prototype.endsWith",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1373,7 +1456,8 @@
             "owner": "mathiasbynens",
             "repo": "String.prototype.repeat",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1385,10 +1469,11 @@
             "id": 15341316,
             "language": "JavaScript",
             "last_commit": "2024-12-17T21:58:09Z",
-            "owner": "paulmillr",
+            "owner": "es-shims",
             "repo": "Array.prototype.findIndex",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1403,7 +1488,8 @@
             "owner": "eriwen",
             "repo": "es6-map-shim",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1418,7 +1504,8 @@
             "owner": "sindresorhus",
             "repo": "is-finite",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1433,7 +1520,8 @@
             "owner": "mathiasbynens",
             "repo": "Array.of",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1448,7 +1536,8 @@
             "owner": "sindresorhus",
             "repo": "math-sign",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1463,7 +1552,8 @@
             "owner": "mathiasbynens",
             "repo": "RegExp.prototype.match",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1478,7 +1568,8 @@
             "owner": "walling",
             "repo": "Function.create.js",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1493,7 +1584,8 @@
             "owner": "mathiasbynens",
             "repo": "RegExp.prototype.search",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1508,7 +1600,8 @@
             "owner": "EliSnow",
             "repo": "Blitz-Collections",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Polyfills"
@@ -1529,7 +1622,8 @@
             "owner": "gandm",
             "repo": "language-babel",
             "stars": 471
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1544,7 +1638,8 @@
             "owner": "Benvie",
             "repo": "JavaScriptNext.tmLanguage",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Editors"
@@ -1561,11 +1656,12 @@
             "archived": false,
             "id": 5932749,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T17:17:55Z",
+            "last_commit": "2026-08-28T09:56:38Z",
             "owner": "acornjs",
             "repo": "acorn",
             "stars": 11441
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1580,7 +1676,8 @@
             "owner": "google",
             "repo": "traceur-compiler",
             "stars": 8127
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1594,8 +1691,9 @@
             "last_commit": "2026-05-01T13:47:12Z",
             "owner": "estree",
             "repo": "estree",
-            "stars": 5425
-          }
+            "stars": 5427
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1610,7 +1708,8 @@
             "owner": "zenparsing",
             "repo": "esparse",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Parsers"
@@ -1631,7 +1730,8 @@
             "owner": "benjamn",
             "repo": "recast",
             "stars": 5254
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1646,7 +1746,8 @@
             "owner": "douglasduteil",
             "repo": "isparta",
             "stars": 643
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1661,7 +1762,8 @@
             "owner": "hemanth",
             "repo": "paws-on-es6",
             "stars": 329
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1676,7 +1778,8 @@
             "owner": "sindresorhus",
             "repo": "esnext-showcase",
             "stars": 299
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1691,7 +1794,8 @@
             "owner": "getify",
             "repo": "let-er",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1706,7 +1810,8 @@
             "owner": "juandopazo",
             "repo": "es-dependency-graph",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1721,7 +1826,8 @@
             "owner": "hemanth",
             "repo": "es6-lab-setup",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1736,7 +1842,8 @@
             "owner": "wycats",
             "repo": "looper",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1751,7 +1858,8 @@
             "owner": "sproutsocial",
             "repo": "es6-import-validate",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         },
         {
           "node_type": "item",
@@ -1766,14 +1874,15 @@
             "owner": "calvinmetcalf",
             "repo": "es6-translate",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:21:04.321Z"
         }
       ],
       "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:26:26.509Z",
+    "last_updated": "2026-08-28T23:21:04.321Z",
     "original_repository_info": {
       "archived": false,
       "id": 15325285,
