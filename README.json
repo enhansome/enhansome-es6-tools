@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+            "homepage": "https://babel.dev",
             "id": 24560307,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:39:56Z",
+            "open_issues": 777,
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43985,
+            "topics": [
+              "ast",
+              "babel",
+              "compiler",
+              "es2015",
+              "es6",
+              "flavortown",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Traceur is a JavaScript.next-to-JavaScript-of-today compiler",
+            "homepage": null,
             "id": 9060347,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-10T08:25:16Z",
+            "open_issues": 292,
             "owner": "google",
             "repo": "traceur-compiler",
-            "stars": 8127
+            "stars": 8127,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -42,12 +60,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does.",
+            "homepage": "https://lebab.github.io",
             "id": 30953633,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-01T08:32:33Z",
+            "open_issues": 39,
             "owner": "lebab",
             "repo": "lebab",
-            "stars": 5637
+            "stars": 5637,
+            "topics": [
+              "compiler",
+              "es2015",
+              "es6",
+              "javascript",
+              "lebab"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -58,12 +87,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.",
+            "homepage": "http://facebook.github.io/regenerator/",
             "id": 13346571,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-29T11:04:34Z",
+            "open_issues": 81,
             "owner": "facebook",
             "repo": "regenerator",
-            "stars": 3825
+            "stars": 3825,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -74,12 +108,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browserify transform for Babel",
+            "homepage": null,
             "id": 24835467,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-06T15:16:27Z",
+            "open_issues": 12,
             "owner": "babel",
             "repo": "babelify",
-            "stars": 1677
+            "stars": 1677,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -90,12 +129,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tomorrow’s JavaScript module syntax today",
+            "homepage": "http://esnext.github.io/es6-module-transpiler/",
             "id": 8145816,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2015-10-19T23:37:45Z",
+            "open_issues": 12,
             "owner": "esnext",
             "repo": "es6-module-transpiler",
-            "stars": 1204
+            "stars": 1204,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -106,12 +150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "browserify >=v2 transform to compile JavaScript.next (ES6) to JavaScript.current (ES5) on the fly.",
+            "homepage": "http://thlorenz.github.com/es6ify/",
             "id": 8927771,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-06-12T01:47:33Z",
+            "open_issues": 15,
             "owner": "thlorenz",
             "repo": "es6ify",
-            "stars": 590
+            "stars": 590,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -122,12 +171,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple utility for pluggable JS syntax transforms using the esprima parser.",
+            "homepage": null,
             "id": 11888510,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2016-08-15T16:20:40Z",
+            "open_issues": 24,
             "owner": "facebookarchive",
             "repo": "jstransform",
-            "stars": 480
+            "stars": 480,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -138,12 +192,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A source code transpiler that enables the use of ES2015 Unicode regular expressions in ES5.",
+            "homepage": "https://mths.be/regexpu",
             "id": 23291630,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-18T15:57:11Z",
+            "open_issues": 3,
             "owner": "mathiasbynens",
             "repo": "regexpu",
-            "stars": 242
+            "stars": 242,
+            "topics": [
+              "code-generation",
+              "ecmascript",
+              "es2015",
+              "javascript",
+              "regex",
+              "regexp",
+              "regular-expression",
+              "unicode"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -154,12 +222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of sweet.js macros that implement ES6 features for ES5",
+            "homepage": null,
             "id": 14666108,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2014-07-04T15:45:38Z",
+            "open_issues": 13,
             "owner": "jlongster",
             "repo": "es6-macros",
-            "stars": 239
+            "stars": 239,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -170,12 +243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Tomorrow's JavaScript syntax today",
+            "homepage": null,
             "id": 11456310,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2015-07-19T10:54:16Z",
+            "open_issues": 38,
             "owner": "termi",
             "repo": "es6-transpiler",
-            "stars": 215
+            "stars": 215,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -186,12 +264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static scope analysis and transpilation of ES6 block scoped const and let variables to ES3 vars",
+            "homepage": null,
             "id": 9640609,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-11-06T16:35:42Z",
+            "open_issues": 1,
             "owner": "olov",
             "repo": "defs",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -202,12 +285,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transpile ES6 Modules in the Rails Asset Pipeline",
+            "homepage": "http://dockyard.com",
             "id": 13895032,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-12-09T17:52:48Z",
+            "open_issues": 0,
             "owner": "DavyJonesLocker",
             "repo": "es6_module_transpiler-rails",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -218,12 +306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transpiles from everything to everything else",
+            "homepage": "https://www.npmjs.com/package/transpile",
             "id": 18743512,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-06-01T21:46:36Z",
+            "open_issues": 21,
             "owner": "stealjs",
             "repo": "transpile",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -242,12 +335,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gulp plugin for Babel",
+                "homepage": "https://babeljs.io",
                 "id": 24635108,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-21T18:39:23Z",
+                "open_issues": 33,
                 "owner": "babel",
                 "repo": "gulp-babel",
-                "stars": 1308
+                "stars": 1308,
+                "topics": [
+                  "babel",
+                  "gulp-plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -258,12 +359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TypeScript compiler for gulp with incremental compilation support.",
+                "homepage": null,
                 "id": 19606628,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-02T19:34:24Z",
+                "open_issues": 62,
                 "owner": "ivogabe",
                 "repo": "gulp-typescript",
-                "stars": 852
+                "stars": 852,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -274,12 +380,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Traceur is a JavaScript.next to JavaScript-of-today compiler",
+                "homepage": null,
                 "id": 15361133,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-23T12:02:11Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-traceur",
-                "stars": 164
+                "stars": 164,
+                "topics": [
+                  "deprecated",
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs",
+                  "npm-package",
+                  "traceur",
+                  "transpile"
+                ]
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -290,12 +409,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 15502056,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-03-09T09:23:37Z",
+                "open_issues": 6,
                 "owner": "ryanseddon",
                 "repo": "gulp-es6-module-transpiler",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -306,12 +430,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED] Transpile ES2015 to ES5",
+                "homepage": null,
                 "id": 15598752,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-11-14T13:03:05Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-es6-transpiler",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "deprecated",
+                  "es2015",
+                  "gulp",
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -322,12 +458,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Transpile ES2015 generator functions to ES5",
+                "homepage": null,
                 "id": 15347727,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-23T11:54:09Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-regenerator",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "deprecated",
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs",
+                  "regenerator"
+                ]
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -338,12 +485,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gulp plugin to transform ES6 to ES5.",
+                "homepage": null,
                 "id": 19069958,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-01-29T04:23:52Z",
+                "open_issues": 20,
                 "owner": "hemanth",
                 "repo": "gulp-jstransform",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "es6",
+                  "gulp",
+                  "javascript",
+                  "jstransform",
+                  "transpiler"
+                ]
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -354,12 +512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gulp plugin to transpile ES6 Unicode regular expressions to ES5 with regexpu.",
+                "homepage": "https://mths.be/gulp-regexpu",
                 "id": 23291741,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-02-15T16:08:47Z",
+                "open_issues": 0,
                 "owner": "mathiasbynens",
                 "repo": "gulp-regexpu",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             }
@@ -377,12 +540,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Grunt plugin for Babel",
+                "homepage": "https://babeljs.io",
                 "id": 24841962,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-18T11:16:39Z",
+                "open_issues": 24,
                 "owner": "babel",
                 "repo": "grunt-babel",
-                "stars": 434
+                "stars": 434,
+                "topics": [
+                  "babel",
+                  "grunt-plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -393,12 +564,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A grunt task to manage your complete typescript development to production workflow",
+                "homepage": "https://www.npmjs.com/package/grunt-ts",
                 "id": 10748878,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-07T17:51:37Z",
+                "open_issues": 81,
                 "owner": "TypeStrong",
                 "repo": "grunt-ts",
-                "stars": 327
+                "stars": 327,
+                "topics": [
+                  "grunt",
+                  "grunt-task",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -409,12 +589,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a grunt task for adding a grunt task to compiler ES6 JS into ES3 JS using Traceur Compiler",
+                "homepage": null,
                 "id": 8301541,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-06T18:15:15Z",
+                "open_issues": 9,
                 "owner": "aaronfrost",
                 "repo": "grunt-traceur",
-                "stars": 202
+                "stars": 202,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -425,12 +610,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 9511838,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-02-20T22:10:43Z",
+                "open_issues": 3,
                 "owner": "joefiorini",
                 "repo": "grunt-es6-module-transpiler",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -441,12 +631,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Shared tooling between Ember.js microlibraries.",
+                "homepage": null,
                 "id": 10390405,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-07-19T00:22:16Z",
+                "open_issues": 1,
                 "owner": "thomasboyt",
                 "repo": "grunt-microlib",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -457,12 +652,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Transpile ES2015 generator functions to ES5",
+                "homepage": null,
                 "id": 13799293,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-23T11:43:18Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "grunt-regenerator",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "deprecated",
+                  "grunt-plugin",
+                  "nodejs",
+                  "npm-package",
+                  "regenerator"
+                ]
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -473,12 +679,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED] Transpile ES2015 to ES5",
+                "homepage": null,
                 "id": 15598697,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-11-14T13:01:37Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "grunt-es6-transpiler",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "deprecated",
+                  "es2015",
+                  "gruntjs",
+                  "javascript",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -489,12 +706,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static scope analysis and transpilation of ES6 block scoped const and let variables, to ES3.",
+                "homepage": null,
                 "id": 11197636,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-08-16T12:00:40Z",
+                "open_issues": 0,
                 "owner": "EE",
                 "repo": "grunt-defs",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             }
@@ -512,12 +734,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Broccoli plugin for Babel",
+                "homepage": null,
                 "id": 25077882,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T08:08:38Z",
+                "open_issues": 18,
                 "owner": "ember-cli",
                 "repo": "broccoli-babel-transpiler",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -528,12 +757,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Traceur is a JavaScript.next to JavaScript-of-today compiler",
+                "homepage": null,
                 "id": 17019941,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-23T08:23:26Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "broccoli-traceur",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "deprecated"
+                ]
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -544,12 +780,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Transpile ES2015 to ES5",
+                "homepage": null,
                 "id": 17154293,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-23T08:18:50Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "broccoli-es6-transpiler",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "broccoli",
+                  "broccoli-plugin",
+                  "deprecated",
+                  "nodejs",
+                  "npm-package"
+                ]
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -560,12 +807,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Transpile ES2015 generator functions to ES5",
+                "homepage": null,
                 "id": 17040343,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-23T08:20:57Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "broccoli-regenerator",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "broccoli",
+                  "broccoli-plugin",
+                  "deprecated",
+                  "nodejs",
+                  "npm-package",
+                  "regenerator"
+                ]
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -576,12 +835,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Broccoli plugin that transpiles ES6 modules",
+                "homepage": null,
                 "id": 18482729,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2014-12-16T17:09:20Z",
+                "open_issues": 3,
                 "owner": "mmun",
                 "repo": "broccoli-es6-module-transpiler",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -592,12 +856,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ES6 arrow functions compiled to ES5 compliant code.",
+                "homepage": null,
                 "id": 17136223,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-12-01T15:12:34Z",
+                "open_issues": 12,
                 "owner": "hemanth",
                 "repo": "broccoli-es6-arrow",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -608,12 +877,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript preprocessor for Broccoli",
+                "homepage": null,
                 "id": 34666379,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2015-05-20T20:05:58Z",
+                "open_issues": 3,
                 "owner": "ngParty",
                 "repo": "broccoli-tsc",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             }
@@ -631,12 +905,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Brunch plugin for Babel",
+                "homepage": null,
                 "id": 24654145,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2021-08-10T19:35:52Z",
+                "open_issues": 1,
                 "owner": "babel",
                 "repo": "babel-brunch",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             },
@@ -647,12 +926,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Brunch plugin for es6-module-transpiler: is an experimental compiler that allows you to write your JavaScript using a subset of the current ES6 module syntax, and compile it into AMD, CommonJS, and globals styles.",
+                "homepage": null,
                 "id": 14644924,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2013-11-25T20:07:30Z",
+                "open_issues": 1,
                 "owner": "gcollazo",
                 "repo": "es6-module-transpiler-brunch",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:04.321Z"
             }
@@ -674,12 +958,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦 Babel loader for webpack",
+            "homepage": null,
             "id": 24963784,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-04T14:59:39Z",
+            "open_issues": 66,
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4837
+            "stars": 4837,
+            "topics": [
+              "babel",
+              "loader",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -690,12 +983,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Awesome TypeScript loader for webpack",
+            "homepage": null,
             "id": 31077672,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-10-31T17:37:45Z",
+            "open_issues": 233,
             "owner": "s-panferov",
             "repo": "awesome-typescript-loader",
-            "stars": 2338
+            "stars": 2338,
+            "topics": [
+              "loader",
+              "typescript",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -706,12 +1008,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Up to date Traceur Compiler  loader for Webpack",
+            "homepage": null,
             "id": 31832267,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-03-08T22:40:32Z",
+            "open_issues": 0,
             "owner": "PatrickJS",
             "repo": "traceur-compiler-loader",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -728,12 +1035,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Duo plugin for Babel",
+            "homepage": null,
             "id": 27807280,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-04-10T18:00:02Z",
+            "open_issues": 3,
             "owner": "babel",
             "repo": "duo-babel",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "deprecated",
+              "unmaintained"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -744,12 +1059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "typescript bundpiler for duo",
+            "homepage": null,
             "id": 28366446,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-06-10T23:04:45Z",
+            "open_issues": 1,
             "owner": "frankwallis",
             "repo": "duo-typescript",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -766,12 +1086,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Connect plugin for Babel",
+            "homepage": null,
             "id": 24835464,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-09-08T15:41:57Z",
+            "open_issues": 2,
             "owner": "babel",
             "repo": "babel-connect",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "unmaintained"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -782,12 +1109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "typescript compile server for [connect/express]-middleware",
+            "homepage": null,
             "id": 19141967,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-03-02T09:02:46Z",
+            "open_issues": 4,
             "owner": "brn",
             "repo": "typescript-middleware",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -804,12 +1136,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Gobble plugin for Babel",
+            "homepage": null,
             "id": 26648428,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-01-26T16:07:41Z",
+            "open_issues": 1,
             "owner": "babel",
             "repo": "gobble-babel",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "babel",
+              "unmaintained"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -820,12 +1160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compile ES6 files with gobble and es6-transpiler",
+            "homepage": null,
             "id": 23190650,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-01-12T03:32:20Z",
+            "open_issues": 0,
             "owner": "gobblejs",
             "repo": "gobble-es6-transpiler",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -842,12 +1187,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Jade plugin for Babel",
+            "homepage": null,
             "id": 25034944,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-01-24T09:10:43Z",
+            "open_issues": 4,
             "owner": "babel",
             "repo": "jade-babel",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "deprecated",
+              "unmaintained"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -864,12 +1217,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Jest plugin for Babel (moved) ->",
+            "homepage": "https://github.com/facebook/jest/tree/master/packages/babel-jest",
             "id": 26481435,
             "language": null,
+            "license": null,
             "last_commit": "2017-08-03T12:54:07Z",
+            "open_issues": 0,
             "owner": "babel",
             "repo": "babel-jest",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "moved"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -886,12 +1246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Karma plugin for Babel",
+            "homepage": null,
             "id": 25969587,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-09-25T08:55:03Z",
+            "open_issues": 8,
             "owner": "babel",
             "repo": "karma-babel-preprocessor",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -902,12 +1267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeScript preprocessor for karma-runner",
+            "homepage": null,
             "id": 14427515,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-03T03:25:59Z",
+            "open_issues": 22,
             "owner": "sergeyt",
             "repo": "karma-typescript-preprocessor",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -918,12 +1288,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Karma plugin. Compile ES6 script on the fly using traceur-compiler.",
+            "homepage": null,
             "id": 15367099,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-05-11T13:23:09Z",
+            "open_issues": 3,
             "owner": "karma-runner",
             "repo": "karma-traceur-preprocessor",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -940,12 +1315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An asset pipeline wrapper for the TypeScript language",
+            "homepage": null,
             "id": 6057844,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2016-11-13T09:53:20Z",
+            "open_issues": 18,
             "owner": "typescript-ruby",
             "repo": "typescript-rails",
-            "stars": 254
+            "stars": 254,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -956,12 +1336,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Google Traceur in Rails/Sinatra/Rack apps",
+            "homepage": null,
             "id": 21050332,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2015-10-07T10:31:46Z",
+            "open_issues": 2,
             "owner": "gunpowderlabs",
             "repo": "sprockets-traceur",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -978,12 +1363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run ES6, CoffeeScript and LiveScript on any page from Chrome's DevTools!",
+            "homepage": null,
             "id": 17039339,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-08-06T00:07:05Z",
+            "open_issues": 26,
             "owner": "richgilbank",
             "repo": "Scratch-JS",
-            "stars": 349
+            "stars": 349,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -994,12 +1384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yeoman generator for Typescript projects",
+            "homepage": null,
             "id": 20179066,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-05-03T19:46:39Z",
+            "open_issues": 0,
             "owner": "mrkev",
             "repo": "generator-typescript",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -1016,12 +1411,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦 Babel loader for webpack",
+            "homepage": null,
             "id": 24963784,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-04T14:59:39Z",
+            "open_issues": 66,
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4837
+            "stars": 4837,
+            "topics": [
+              "babel",
+              "loader",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1032,12 +1436,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Polyfill for the ES Module Loader",
+            "homepage": null,
             "id": 4380969,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-07-15T12:57:18Z",
+            "open_issues": 6,
             "owner": "ModuleLoader",
             "repo": "es-module-loader",
-            "stars": 2210
+            "stars": 2210,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1048,12 +1457,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Pseudoimplementation of the proposed ES6 module loaders.",
+            "homepage": null,
             "id": 9477360,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-02-28T21:51:01Z",
+            "open_issues": 36,
             "owner": "jorendorff",
             "repo": "js-loaders",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1064,12 +1478,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "beck is obsolete. check out RaveJS: https://github.com/RaveJS/rave",
+            "homepage": null,
             "id": 11201012,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2013-12-17T22:00:48Z",
+            "open_issues": 0,
             "owner": "unscriptable",
             "repo": "beck",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -1086,12 +1505,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Boilerplate for ES6+ apps using JSPM & Gulp",
+            "homepage": null,
             "id": 37381389,
             "language": "JavaScript",
+            "license": "Unlicense",
             "last_commit": "2016-08-11T18:44:37Z",
+            "open_issues": 7,
             "owner": "alexweber",
             "repo": "es6-jspm-gulp-boilerplate",
-            "stars": 136
+            "stars": 136,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1102,12 +1526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write apps in es6 now via traceur while using dependencies distributed as amd and browser global modules, with source maps, concatenation, minification, compression, and unit testing in real browsers.",
+            "homepage": null,
             "id": 20906017,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-02-06T19:58:15Z",
+            "open_issues": 0,
             "owner": "davidjnelson",
             "repo": "es6-boilerplate",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -1124,12 +1553,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Loom generators with ES6 ember modules",
+            "homepage": null,
             "id": 12012668,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2013-11-30T19:29:12Z",
+            "open_issues": 3,
             "owner": "ryanflorence",
             "repo": "loom-generators-ember",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1140,12 +1574,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":guardsman: Yo generator for ES6 using Babel.js",
+            "homepage": null,
             "id": 32796695,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-09-05T23:44:58Z",
+            "open_issues": 0,
             "owner": "HenriqueLimas",
             "repo": "generator-es6-babel",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1156,12 +1595,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yeoman generator for creating node es next (ES6, ES7) projects, using traceur and ES6 module loader.",
+            "homepage": null,
             "id": 19565569,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-11-18T18:05:36Z",
+            "open_issues": 1,
             "owner": "briandipalma",
             "repo": "generator-node-esnext",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1172,12 +1616,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yeoman generator for Gulp and Browserify",
+            "homepage": null,
             "id": 47757160,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-12-11T19:30:04Z",
+            "open_issues": 0,
             "owner": "HenriqueLimas",
             "repo": "generator-gulp-babelify",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -1194,12 +1643,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Standard Library",
+            "homepage": "https://core-js.io",
             "id": 11481338,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:17:54Z",
+            "open_issues": 44,
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25527
+            "stars": 25526,
+            "topics": [
+              "ecmascript-proposals",
+              "es2015",
+              "es6",
+              "es7",
+              "esnext",
+              "javascript",
+              "js",
+              "polyfill",
+              "ponyfill",
+              "proposal",
+              "proposals",
+              "shim"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1210,12 +1677,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A polyfill for ES6-style Promises",
+            "homepage": null,
             "id": 15046172,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-11-14T21:47:12Z",
+            "open_issues": 26,
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7253
+            "stars": 7253,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1226,12 +1698,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECMAScript 6 compatibility shims for legacy JS engines",
+            "homepage": "http://paulmillr.com",
             "id": 3046507,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-16T04:37:38Z",
+            "open_issues": 1,
             "owner": "paulmillr",
             "repo": "es6-shim",
-            "stars": 3098
+            "stars": 3098,
+            "topics": [
+              "ecmascript",
+              "ecmascript6",
+              "es6",
+              "shim"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1242,12 +1724,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "JavaScript Polyfills, Shims and More",
+            "homepage": null,
             "id": 9928100,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-13T20:46:50Z",
+            "open_issues": 18,
             "owner": "inexorabletash",
             "repo": "polyfill",
-            "stars": 1352
+            "stars": 1352,
+            "topics": [
+              "javascript",
+              "polyfills"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1258,12 +1748,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ES2015 Object.assign() ponyfill",
+            "homepage": null,
             "id": 16457190,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-05T18:16:06Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "object-assign",
-            "stars": 916
+            "stars": 916,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1274,12 +1769,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ES5 shim for ES6 Reflect and Proxy objects",
+            "homepage": "http://www.ecma-international.org/ecma-262/6.0/#sec-reflection",
             "id": 3380952,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-15T13:33:29Z",
+            "open_issues": 8,
             "owner": "tvcutsem",
             "repo": "harmony-reflect",
-            "stars": 482
+            "stars": 482,
+            "topics": [
+              "javascript",
+              "metaprogramming",
+              "proxies",
+              "reflection",
+              "shim"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1290,12 +1796,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECMAScript 6 Symbol polyfill",
+            "homepage": null,
             "id": 14423385,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2024-03-01T13:27:04Z",
+            "open_issues": 2,
             "owner": "medikoo",
             "repo": "es6-symbol",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1306,12 +1817,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A robust & optimized ES3-compatible polyfill for the `String.prototype.startsWith` method in ECMAScript 6.",
+            "homepage": "https://mths.be/startswith",
             "id": 15080795,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-27T14:43:35Z",
+            "open_issues": 0,
             "owner": "mathiasbynens",
             "repo": "String.prototype.startsWith",
-            "stars": 142
+            "stars": 142,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1322,12 +1838,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A robust & optimized ES3-compatible polyfill for the `String.prototype.contains` method in ECMAScript 6.",
+            "homepage": "https://mths.be/includes",
             "id": 15080784,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-10-15T07:02:08Z",
+            "open_issues": 2,
             "owner": "mathiasbynens",
             "repo": "String.prototype.includes",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1338,12 +1859,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A robust & optimized ES3-compatible polyfill for the `Array.from` method in ECMAScript 6.",
+            "homepage": "https://mths.be/array-from",
             "id": 15342606,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-23T05:45:10Z",
+            "open_issues": 0,
             "owner": "mathiasbynens",
             "repo": "Array.from",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1354,12 +1880,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A robust & optimized `String.fromCodePoint` polyfill, based on the ECMAScript 6 specification.",
+            "homepage": "https://mths.be/fromcodepoint",
             "id": 12971692,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-06T06:00:40Z",
+            "open_issues": 0,
             "owner": "mathiasbynens",
             "repo": "String.fromCodePoint",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1370,12 +1901,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A robust & optimized `String.prototype.codePointAt` polyfill, based on the ECMAScript 6 specification.",
+            "homepage": "https://mths.be/codepointat",
             "id": 12971694,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-10-17T14:35:07Z",
+            "open_issues": 0,
             "owner": "mathiasbynens",
             "repo": "String.prototype.codePointAt",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1386,12 +1922,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A robust & optimized ES3-compatible polyfill for the `String.prototype.at` proposal for ECMAScript 6/7.",
+            "homepage": "https://mths.be/at",
             "id": 13682628,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-11-19T07:38:04Z",
+            "open_issues": 4,
             "owner": "mathiasbynens",
             "repo": "String.prototype.at",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1402,12 +1943,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Shim for ES6 WeakMap",
+            "homepage": null,
             "id": 12597764,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2014-10-14T21:40:42Z",
+            "open_issues": 0,
             "owner": "googlearchive",
             "repo": "WeakMap",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1418,12 +1964,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple ES6 Array.prototype.find polyfill for older environments.",
+            "homepage": null,
             "id": 15341310,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-19T05:09:14Z",
+            "open_issues": 1,
             "owner": "es-shims",
             "repo": "Array.prototype.find",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1434,12 +1985,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A robust & optimized ES3-compatible polyfill for the `String.prototype.endsWith` method in ECMAScript 6.",
+            "homepage": "https://mths.be/endswith",
             "id": 15080799,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-20T17:17:33Z",
+            "open_issues": 1,
             "owner": "mathiasbynens",
             "repo": "String.prototype.endsWith",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1450,12 +2006,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A robust & optimized ES3-compatible polyfill for the `String.prototype.repeat` method in ECMAScript 6.",
+            "homepage": "https://mths.be/repeat",
             "id": 15079699,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-01-16T01:49:53Z",
+            "open_issues": 2,
             "owner": "mathiasbynens",
             "repo": "String.prototype.repeat",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1466,12 +2027,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple ES6 Array.prototype.findIndex polyfill for older environments.",
+            "homepage": null,
             "id": 15341316,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-17T21:58:09Z",
+            "open_issues": 0,
             "owner": "es-shims",
             "repo": "Array.prototype.findIndex",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1482,12 +2048,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Implements the evolving ES6 Map specification as closely as possible",
+            "homepage": null,
             "id": 6655909,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-10-12T17:17:15Z",
+            "open_issues": 3,
             "owner": "eriwen",
             "repo": "es6-map-shim",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1498,12 +2069,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ES2015 Number.isFinite() ponyfill",
+            "homepage": null,
             "id": 22609678,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-04-07T07:09:34Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "is-finite",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1514,12 +2090,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A robust & optimized ES3-compatible polyfill for the `Array.of` method in ECMAScript 6.",
+            "homepage": "https://mths.be/array-of",
             "id": 15342110,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-05T05:30:47Z",
+            "open_issues": 0,
             "owner": "mathiasbynens",
             "repo": "Array.of",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1530,12 +2111,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ES2015 Math.sign() ponyfill",
+            "homepage": null,
             "id": 24840812,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-04-07T06:02:52Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "math-sign",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1546,12 +2132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A robust & optimized ES3-compatible polyfill for the `RegExp.prototype.match` method in ECMAScript 6.",
+            "homepage": "https://mths.be/regexp-prototype-match",
             "id": 22032957,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-07-20T12:55:29Z",
+            "open_issues": 1,
             "owner": "mathiasbynens",
             "repo": "RegExp.prototype.match",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1562,12 +2153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create named functions easily in JavaScript.",
+            "homepage": null,
             "id": 8228362,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2013-02-17T00:24:47Z",
+            "open_issues": 0,
             "owner": "walling",
             "repo": "Function.create.js",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1578,12 +2174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A robust & optimized ES3-compatible polyfill for the `RegExp.prototype.search` method in ECMAScript 6.",
+            "homepage": "https://mths.be/regexp-prototype-search",
             "id": 22032954,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-07-20T12:55:43Z",
+            "open_issues": 1,
             "owner": "mathiasbynens",
             "repo": "RegExp.prototype.search",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1594,12 +2195,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An implementation of ECMAScript Next/Harmony/6 collections--WeakMap, Map and Set. Compatible with ECMAScript 5 capable environments",
+            "homepage": null,
             "id": 6926531,
             "language": "JavaScript",
+            "license": "MIT-0",
             "last_commit": "2015-11-09T16:58:00Z",
+            "open_issues": 1,
             "owner": "EliSnow",
             "repo": "Blitz-Collections",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -1616,12 +2222,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ES2017, flow, React JSX and GraphQL grammar and transpilation for ATOM",
+            "homepage": "https://atom.io/packages/language-babel",
             "id": 34526872,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2020-01-15T15:32:49Z",
+            "open_issues": 42,
             "owner": "gandm",
             "repo": "language-babel",
-            "stars": 471
+            "stars": 471,
+            "topics": [
+              "atom",
+              "babel",
+              "es5",
+              "es6",
+              "es7",
+              "graphql",
+              "jsx",
+              "react",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1632,12 +2253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 102026129,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-07-16T18:49:35Z",
+            "open_issues": 8,
             "owner": "Benvie",
             "repo": "JavaScriptNext.tmLanguage",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -1654,12 +2280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small, fast, JavaScript-based JavaScript parser",
+            "homepage": null,
             "id": 5932749,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-28T09:56:38Z",
+            "open_issues": 16,
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11441
+            "stars": 11441,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1670,12 +2301,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Traceur is a JavaScript.next-to-JavaScript-of-today compiler",
+            "homepage": null,
             "id": 9060347,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-10T08:25:16Z",
+            "open_issues": 292,
             "owner": "google",
             "repo": "traceur-compiler",
-            "stars": 8127
+            "stars": 8127,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1686,12 +2322,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ESTree Spec",
+            "homepage": null,
             "id": 30678623,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-05-01T13:47:12Z",
+            "open_issues": 44,
             "owner": "estree",
             "repo": "estree",
-            "stars": 5427
+            "stars": 5427,
+            "topics": [
+              "ast",
+              "estree",
+              "javascript",
+              "parsing",
+              "specification"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1702,12 +2349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Beautiful Parser for the ECMAScript Language",
+            "homepage": null,
             "id": 18199707,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-09-21T23:03:06Z",
+            "open_issues": 0,
             "owner": "zenparsing",
             "repo": "esparse",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -1724,12 +2376,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator",
+            "homepage": null,
             "id": 5905681,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T18:07:46Z",
+            "open_issues": 200,
             "owner": "benjamn",
             "repo": "recast",
-            "stars": 5254
+            "stars": 5254,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1740,12 +2397,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":skull: A code coverage tool for ES6 (babel/6to5)",
+            "homepage": null,
             "id": 26655380,
             "language": "JavaScript",
+            "license": "WTFPL",
             "last_commit": "2019-12-31T11:59:47Z",
+            "open_issues": 41,
             "owner": "douglasduteil",
             "repo": "isparta",
-            "stars": 643
+            "stars": 643,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1756,12 +2418,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalist examples of ES6 functionalities.",
+            "homepage": "http://git.io/es6-paws",
             "id": 17178991,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-04-03T14:57:10Z",
+            "open_issues": 0,
             "owner": "hemanth",
             "repo": "paws-on-es6",
-            "stars": 329
+            "stars": 329,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1772,12 +2439,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Showcasing real-world usage of ECMAScript 6 (the next JavaScript version) features",
+            "homepage": null,
             "id": 10040734,
             "language": null,
+            "license": null,
             "last_commit": "2017-04-16T04:42:32Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "esnext-showcase",
-            "stars": 299
+            "stars": 299,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1788,12 +2460,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED: Transpile non-ES6 let-blocks into ES6 (or ES3)",
+            "homepage": null,
             "id": 9147060,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-10-28T12:44:52Z",
+            "open_issues": 0,
             "owner": "getify",
             "repo": "let-er",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "deprecated"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1804,12 +2483,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get the imports and exports from your ES6 modules",
+            "homepage": null,
             "id": 20294911,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-02-08T20:18:26Z",
+            "open_issues": 0,
             "owner": "juandopazo",
             "repo": "es-dependency-graph",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1820,12 +2504,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Setup your ES6 Lab.",
+            "homepage": "http://git.io/es6-lab",
             "id": 20126989,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-07-17T07:17:17Z",
+            "open_issues": 18,
             "owner": "hemanth",
             "repo": "es6-lab-setup",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "babel",
+              "education",
+              "es6",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1836,12 +2530,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Static analysis tools for ES6",
+            "homepage": null,
             "id": 13316892,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2013-10-06T21:55:49Z",
+            "open_issues": 0,
             "owner": "wycats",
             "repo": "looper",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1852,12 +2551,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple ES6 Harmony Module import statement validator",
+            "homepage": null,
             "id": 16212151,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-05-16T14:34:37Z",
+            "open_issues": 4,
             "owner": "sproutsocial",
             "repo": "es6-import-validate",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         },
@@ -1868,12 +2572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yo dawg I heard you liked modules, so I made a module to translate your modules into modules.",
+            "homepage": null,
             "id": 19286965,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-08-29T13:05:27Z",
+            "open_issues": 5,
             "owner": "calvinmetcalf",
             "repo": "es6-translate",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
         }
@@ -1882,15 +2591,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:21:04.321Z",
+    "last_updated": "2026-08-29T04:17:19.653Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An aggregation of tooling for using ES6 today",
+      "homepage": null,
       "id": 15325285,
       "language": null,
+      "license": "MIT",
       "last_commit": "2019-10-31T18:55:04Z",
+      "open_issues": 14,
       "owner": "addyosmani",
       "repo": "es6-tools",
-      "stars": 3972
+      "stars": 3972,
+      "topics": []
     },
     "original_repository_sha": "0f2b035833ad9c7158e216f2ffc6bd3774e9689c",
     "enhanced_repository": "enhansome/enhansome-es6-tools",
