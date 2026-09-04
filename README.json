@@ -15,11 +15,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T02:05:48Z",
+            "last_commit": "2026-09-04T00:12:15Z",
             "open_issues": 778,
             "owner": "babel",
             "repo": "babel",
-            "stars": 43988,
+            "stars": 43990,
             "topics": [
               "ast",
               "babel",
@@ -69,7 +69,7 @@
             "open_issues": 39,
             "owner": "lebab",
             "repo": "lebab",
-            "stars": 5636,
+            "stars": 5634,
             "topics": [
               "compiler",
               "es2015",
@@ -963,8 +963,8 @@
             "id": 24963784,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T00:06:28Z",
-            "open_issues": 67,
+            "last_commit": "2026-09-03T18:46:34Z",
+            "open_issues": 66,
             "owner": "babel",
             "repo": "babel-loader",
             "stars": 4837,
@@ -1416,8 +1416,8 @@
             "id": 24963784,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T00:06:28Z",
-            "open_issues": 67,
+            "last_commit": "2026-09-03T18:46:34Z",
+            "open_issues": 66,
             "owner": "babel",
             "repo": "babel-loader",
             "stars": 4837,
@@ -1648,11 +1648,11 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T15:28:03Z",
+            "last_commit": "2026-09-03T20:49:00Z",
             "open_issues": 44,
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25525,
+            "stars": 25526,
             "topics": [
               "ecmascript-proposals",
               "es2015",
@@ -2385,7 +2385,7 @@
             "open_issues": 200,
             "owner": "benjamn",
             "repo": "recast",
-            "stars": 5254,
+            "stars": 5255,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:25:50.998Z",
+    "last_updated": "2026-09-04T17:19:06.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
