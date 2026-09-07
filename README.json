@@ -15,11 +15,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T00:12:15Z",
-            "open_issues": 781,
+            "last_commit": "2026-09-07T18:25:44Z",
+            "open_issues": 780,
             "owner": "babel",
             "repo": "babel",
-            "stars": 43993,
+            "stars": 43996,
             "topics": [
               "ast",
               "babel",
@@ -69,7 +69,7 @@
             "open_issues": 39,
             "owner": "lebab",
             "repo": "lebab",
-            "stars": 5634,
+            "stars": 5633,
             "topics": [
               "compiler",
               "es2015",
@@ -1445,7 +1445,7 @@
             "open_issues": 6,
             "owner": "ModuleLoader",
             "repo": "es-module-loader",
-            "stars": 2209,
+            "stars": 2210,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -1648,7 +1648,7 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T10:01:17Z",
+            "last_commit": "2026-09-07T14:50:59Z",
             "open_issues": 44,
             "owner": "zloirock",
             "repo": "core-js",
@@ -2286,10 +2286,10 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-08-28T09:56:38Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11448,
+            "stars": 11449,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2427,7 +2427,7 @@
             "open_issues": 0,
             "owner": "hemanth",
             "repo": "paws-on-es6",
-            "stars": 329,
+            "stars": 328,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T16:38:05.369Z",
+    "last_updated": "2026-09-07T18:31:35.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
@@ -2603,7 +2603,7 @@
       "open_issues": 14,
       "owner": "addyosmani",
       "repo": "es6-tools",
-      "stars": 3971,
+      "stars": 3972,
       "topics": []
     },
     "original_repository_sha": "0f2b035833ad9c7158e216f2ffc6bd3774e9689c",
