@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-15T13:47:14Z",
-            "open_issues": 770,
+            "open_issues": 771,
             "owner": "babel",
             "repo": "babel",
             "stars": 43998,
@@ -69,7 +69,7 @@
             "open_issues": 39,
             "owner": "lebab",
             "repo": "lebab",
-            "stars": 5634,
+            "stars": 5633,
             "topics": [
               "compiler",
               "es2015",
@@ -1907,7 +1907,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-10-17T14:35:07Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "mathiasbynens",
             "repo": "String.prototype.codePointAt",
             "stars": 55,
@@ -2285,7 +2285,7 @@
             "id": 5932749,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-13T07:17:15Z",
+            "last_commit": "2026-09-16T11:14:51Z",
             "open_issues": 15,
             "owner": "acornjs",
             "repo": "acorn",
@@ -2385,7 +2385,7 @@
             "open_issues": 200,
             "owner": "benjamn",
             "repo": "recast",
-            "stars": 5253,
+            "stars": 5252,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:52:02.938Z",
+    "last_updated": "2026-09-16T17:53:44.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
@@ -2603,7 +2603,7 @@
       "open_issues": 14,
       "owner": "addyosmani",
       "repo": "es6-tools",
-      "stars": 3974,
+      "stars": 3975,
       "topics": []
     },
     "original_repository_sha": "0f2b035833ad9c7158e216f2ffc6bd3774e9689c",

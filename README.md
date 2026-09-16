@@ -2,9 +2,9 @@
 
 ## Transpilers
 
-* [Babel](https://github.com/babel/babel) ⭐ 43,998 | 🐛 770 | 🌐 TypeScript | 📅 2026-09-15 - Turn ES6+ code into vanilla ES5 with no runtime
+* [Babel](https://github.com/babel/babel) ⭐ 43,998 | 🐛 771 | 🌐 TypeScript | 📅 2026-09-15 - Turn ES6+ code into vanilla ES5 with no runtime
 * [Traceur compiler](https://github.com/google/traceur-compiler) ⚠️ Archived - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
-* [Lebab](https://github.com/mohebifar/lebab) ⭐ 5,634 | 🐛 39 | 🌐 JavaScript | 📅 2026-04-01 - Transformations for ES5 code to ES6 (approximates)
+* [Lebab](https://github.com/mohebifar/lebab) ⭐ 5,633 | 🐛 39 | 🌐 JavaScript | 📅 2026-04-01 - Transformations for ES5 code to ES6 (approximates)
 * Facebook's [regenerator](https://github.com/facebook/regenerator) ⚠️ Archived - transform ES6 yield/generator functions to ES5
 * [babelify](https://github.com/babel/babelify) ⭐ 1,676 | 🐛 12 | 🌐 JavaScript | 📅 2021-08-06 - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform
 * Square's [es6-module-transpiler](https://github.com/esnext/es6-module-transpiler) ⚠️ Archived - ES6 modules to AMD or CJS
@@ -132,7 +132,7 @@
 
 ## Polyfills
 
-* [core-js](https://github.com/zloirock/core-js) ⭐ 25,533 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-15 - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel) ⭐ 43,998 | 🐛 770 | 🌐 TypeScript | 📅 2026-09-15.
+* [core-js](https://github.com/zloirock/core-js) ⭐ 25,533 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-15 - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel) ⭐ 43,998 | 🐛 771 | 🌐 TypeScript | 📅 2026-09-15.
 * [es6-promise](https://github.com/jakearchibald/es6-promise) ⭐ 7,249 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - polyfill for Promises matching the ES6 API
 * [es6-shim](https://github.com/paulmillr/es6-shim) ⭐ 3,098 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-16 - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
 * [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md) ⚠️ Archived
@@ -143,7 +143,7 @@
 * [`String.prototype.includes`](https://github.com/mathiasbynens/String.prototype.includes) ⭐ 70 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-15
 * [`Array.from`](https://github.com/mathiasbynens/Array.from) ⭐ 66 | 🐛 0 | 🌐 JavaScript | 📅 2024-03-23
 * [`String.fromCodePoint`](https://github.com/mathiasbynens/String.fromCodePoint) ⭐ 60 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-06
-* [`String.prototype.codePointAt`](https://github.com/mathiasbynens/String.prototype.codePointAt) ⭐ 55 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-17
+* [`String.prototype.codePointAt`](https://github.com/mathiasbynens/String.prototype.codePointAt) ⭐ 55 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-17
 * [`String.prototype.at`](https://github.com/mathiasbynens/String.prototype.at) ⚠️ Archived
 * Polymer's [WeakMap shim](https://github.com/Polymer/WeakMap) ⚠️ Archived
 * [`Array.prototype.find`](https://github.com/paulmillr/Array.prototype.find) ⭐ 38 | 🐛 1 | 🌐 JavaScript | 📅 2024-03-19
@@ -171,14 +171,14 @@
 
 ## Parsers
 
-* [Acorn](https://github.com/ternjs/acorn) ⭐ 11,448 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-13 - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format.
+* [Acorn](https://github.com/ternjs/acorn) ⭐ 11,448 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-16 - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format.
 * [Traceur compiler](https://github.com/google/traceur-compiler) ⚠️ Archived also has built-in parser available under `traceur.syntax.Parser`.
 * [Esprima](http://esprima.org) - JavaScript parser supporting ES6, parses to [ESTree AST format](https://github.com/estree/estree) ⭐ 5,436 | 🐛 44 | 📅 2026-05-01
 * [esparse](https://github.com/zenparsing/esparse) ⭐ 115 | 🐛 0 | 🌐 JavaScript | 📅 2018-09-21 - ES6 parser written in ES6.
 
 ## Other
 
-* [Recast](https://github.com/benjamn/recast) ⭐ 5,253 | 🐛 200 | 🌐 TypeScript | 📅 2026-08-21 - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator](https://github.com/facebook/regenerator) ⚠️ Archived and [es6-arrow-function](https://github.com/esnext/es6-arrow-function) ⚠️ Archived.
+* [Recast](https://github.com/benjamn/recast) ⭐ 5,252 | 🐛 200 | 🌐 TypeScript | 📅 2026-08-21 - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator](https://github.com/facebook/regenerator) ⚠️ Archived and [es6-arrow-function](https://github.com/esnext/es6-arrow-function) ⚠️ Archived.
 * [Isparta](https://github.com/douglasduteil/isparta) ⚠️ Archived
 * [Paws on ES6](https://github.com/hemanth/paws-on-es6) ⭐ 328 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-03 -  Minimalist examples of ES6 functionalities.
 * [ES.next showcase](https://github.com/sindresorhus/esnext-showcase) ⚠️ Archived - real-world usage examples of ES6 features
@@ -196,4 +196,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
