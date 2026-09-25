@@ -15,11 +15,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T22:40:22Z",
-            "open_issues": 769,
+            "last_commit": "2026-09-25T00:13:03Z",
+            "open_issues": 770,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44013,
+            "stars": 44020,
             "topics": [
               "ast",
               "babel",
@@ -964,10 +964,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-03T18:46:34Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4835,
+            "stars": 4834,
             "topics": [
               "babel",
               "loader",
@@ -1417,10 +1417,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-03T18:46:34Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4835,
+            "stars": 4834,
             "topics": [
               "babel",
               "loader",
@@ -1648,11 +1648,11 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T13:08:53Z",
+            "last_commit": "2026-09-25T12:07:50Z",
             "open_issues": 44,
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25538,
+            "stars": 25536,
             "topics": [
               "ecmascript-proposals",
               "es2015",
@@ -2289,7 +2289,7 @@
             "open_issues": 13,
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11453,
+            "stars": 11451,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:05:50.719Z",
+    "last_updated": "2026-09-25T18:10:12.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
