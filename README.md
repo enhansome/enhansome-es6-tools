@@ -2,7 +2,7 @@
 
 ## Transpilers
 
-* [Babel](https://github.com/babel/babel) ⭐ 44,044 | 🐛 772 | 🌐 TypeScript | 📅 2026-09-28 - Turn ES6+ code into vanilla ES5 with no runtime
+* [Babel](https://github.com/babel/babel) ⭐ 44,043 | 🐛 772 | 🌐 TypeScript | 📅 2026-09-29 - Turn ES6+ code into vanilla ES5 with no runtime
 * [Traceur compiler](https://github.com/google/traceur-compiler) ⚠️ Archived - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 * [Lebab](https://github.com/mohebifar/lebab) ⭐ 5,633 | 🐛 39 | 🌐 JavaScript | 📅 2026-04-01 - Transformations for ES5 code to ES6 (approximates)
 * Facebook's [regenerator](https://github.com/facebook/regenerator) ⚠️ Archived - transform ES6 yield/generator functions to ES5
@@ -10,7 +10,7 @@
 * Square's [es6-module-transpiler](https://github.com/esnext/es6-module-transpiler) ⚠️ Archived - ES6 modules to AMD or CJS
 * [es6ify](https://github.com/thlorenz/es6ify) ⭐ 591 | 🐛 15 | 🌐 JavaScript | 📅 2017-06-12 - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform
 * Facebook's [jstransform](https://github.com/facebookarchive/jstransform) ⚠️ Archived - A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms
-* [regexpu](https://github.com/mathiasbynens/regexpu) ⭐ 242 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-18 — Transform Unicode-aware ES6 regular expressions to ES5
+* [regexpu](https://github.com/mathiasbynens/regexpu) ⭐ 242 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-29 — Transform Unicode-aware ES6 regular expressions to ES5
 * [Some Sweet.js macros](https://github.com/jlongster/es6-macros) ⭐ 239 | 🐛 13 | 🌐 JavaScript | 📅 2014-07-04 that compile from ES6 to ES5
 * [es6-transpiler](https://github.com/termi/es6-transpiler) ⭐ 215 | 🐛 38 | 🌐 JavaScript | 📅 2015-07-19 - ES6 > ES5. Includes classes, destructuring, default parameters, spread
 * [defs](https://github.com/olov/defs) ⭐ 114 | 🐛 1 | 🌐 JavaScript | 📅 2019-11-06 - ES6 block-scoped const and let variables to ES3 vars
@@ -132,7 +132,7 @@
 
 ## Polyfills
 
-* [core-js](https://github.com/zloirock/core-js) ⭐ 25,536 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-28 - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel) ⭐ 44,044 | 🐛 772 | 🌐 TypeScript | 📅 2026-09-28.
+* [core-js](https://github.com/zloirock/core-js) ⭐ 25,536 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-29 - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel) ⭐ 44,043 | 🐛 772 | 🌐 TypeScript | 📅 2026-09-29.
 * [es6-promise](https://github.com/jakearchibald/es6-promise) ⭐ 7,249 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - polyfill for Promises matching the ES6 API
 * [es6-shim](https://github.com/paulmillr/es6-shim) ⭐ 3,099 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-16 - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
 * [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md) ⚠️ Archived
@@ -196,4 +196,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
