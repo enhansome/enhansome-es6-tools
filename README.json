@@ -15,11 +15,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T14:05:09Z",
-            "open_issues": 768,
+            "last_commit": "2026-10-02T09:31:34Z",
+            "open_issues": 770,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44043,
+            "stars": 44045,
             "topics": [
               "ast",
               "babel",
@@ -1648,11 +1648,11 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T17:50:50Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-02T09:05:46Z",
+            "open_issues": 45,
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25535,
+            "stars": 25534,
             "topics": [
               "ecmascript-proposals",
               "es2015",
@@ -1697,14 +1697,14 @@
           "description": "almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "ECMAScript 6 compatibility shims for legacy JS engines",
             "homepage": "http://paulmillr.com",
             "id": 3046507,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-04-16T04:37:38Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-02T16:42:25Z",
+            "open_issues": 0,
             "owner": "paulmillr",
             "repo": "es6-shim",
             "stars": 3099,
@@ -2289,7 +2289,7 @@
             "open_issues": 14,
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11451,
+            "stars": 11453,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2331,7 +2331,7 @@
             "open_issues": 44,
             "owner": "estree",
             "repo": "estree",
-            "stars": 5438,
+            "stars": 5437,
             "topics": [
               "ast",
               "estree",
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:11:13.989Z",
+    "last_updated": "2026-10-02T18:51:58.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
