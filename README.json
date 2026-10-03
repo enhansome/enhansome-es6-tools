@@ -15,11 +15,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:40:03Z",
+            "last_commit": "2026-10-03T15:30:53Z",
             "open_issues": 768,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44046,
+            "stars": 44047,
             "topics": [
               "ast",
               "babel",
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:51:41.374Z",
+    "last_updated": "2026-10-03T17:42:30.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
