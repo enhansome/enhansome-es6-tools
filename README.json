@@ -15,11 +15,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T09:31:34Z",
-            "open_issues": 770,
+            "last_commit": "2026-10-02T22:40:03Z",
+            "open_issues": 768,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44045,
+            "stars": 44046,
             "topics": [
               "ast",
               "babel",
@@ -331,7 +331,7 @@
             {
               "node_type": "item",
               "title": "Babel: gulp-babel",
-              "description": null,
+              "description": "babel/gulp-babel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -355,7 +355,7 @@
             {
               "node_type": "item",
               "title": "TypeScript: gulp-typescript",
-              "description": null,
+              "description": "ivogabe/gulp-typescript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -376,7 +376,7 @@
             {
               "node_type": "item",
               "title": "Traceur: gulp-traceur",
-              "description": null,
+              "description": "sindresorhus/gulp-traceur",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -405,7 +405,7 @@
             {
               "node_type": "item",
               "title": "ES6 Module Transpiler: gulp-es6-module-transpiler",
-              "description": null,
+              "description": "ryanseddon/gulp-es6-module-transpiler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -454,7 +454,7 @@
             {
               "node_type": "item",
               "title": "Regenerator: gulp-regenerator",
-              "description": null,
+              "description": "sindresorhus/gulp-regenerator",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -508,7 +508,7 @@
             {
               "node_type": "item",
               "title": "regexpu: gulp-regexpu",
-              "description": null,
+              "description": "mathiasbynens/gulp-regexpu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -549,7 +549,7 @@
                 "open_issues": 24,
                 "owner": "babel",
                 "repo": "grunt-babel",
-                "stars": 434,
+                "stars": 433,
                 "topics": [
                   "babel",
                   "grunt-plugin"
@@ -606,7 +606,7 @@
             {
               "node_type": "item",
               "title": "ES6 Module Transpiler: grunt-es6-module-transpiler",
-              "description": null,
+              "description": "joefiorini/grunt-es6-module-transpiler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -730,7 +730,7 @@
             {
               "node_type": "item",
               "title": "Babel: broccoli-babel-transpiler",
-              "description": null,
+              "description": "ember-cli/broccoli-babel-transpiler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -753,7 +753,7 @@
             {
               "node_type": "item",
               "title": "Traceur: broccoli-traceur",
-              "description": null,
+              "description": "sindresorhus/broccoli-traceur",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -776,7 +776,7 @@
             {
               "node_type": "item",
               "title": "ES6 Transpiler: broccoli-transpiler",
-              "description": null,
+              "description": "sindresorhus/broccoli-es6-transpiler",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -803,7 +803,7 @@
             {
               "node_type": "item",
               "title": "Regenerator: broccoli-regenerator",
-              "description": null,
+              "description": "sindresorhus/broccoli-regenerator",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -831,7 +831,7 @@
             {
               "node_type": "item",
               "title": "ES6 Module Transpiler: broccoli-es6-module-transpiler",
-              "description": null,
+              "description": "mmun/broccoli-es6-module-transpiler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -852,7 +852,7 @@
             {
               "node_type": "item",
               "title": "ES6 fat arrow transpiler: broccoli-es6-arrow",
-              "description": null,
+              "description": "hemanth/broccoli-es6-arrow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -873,7 +873,7 @@
             {
               "node_type": "item",
               "title": "TypeScript: broccoli-tsc",
-              "description": null,
+              "description": "ngParty/broccoli-tsc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -901,7 +901,7 @@
             {
               "node_type": "item",
               "title": "Babel: babel-brunch",
-              "description": null,
+              "description": "babel/babel-brunch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -922,7 +922,7 @@
             {
               "node_type": "item",
               "title": "ES6 Module Transpiler: es6-module-transpiler-brunch",
-              "description": null,
+              "description": "gcollazo/es6-module-transpiler-brunch",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -954,7 +954,7 @@
         {
           "node_type": "item",
           "title": "Babel: babel-loader",
-          "description": null,
+          "description": "babel/babel-loader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -967,7 +967,7 @@
             "open_issues": 67,
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4834,
+            "stars": 4833,
             "topics": [
               "babel",
               "loader",
@@ -979,7 +979,7 @@
         {
           "node_type": "item",
           "title": "TypeScript: awesome-typescript-loader",
-          "description": null,
+          "description": "s-panferov/awesome-typescript-loader",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1004,7 +1004,7 @@
         {
           "node_type": "item",
           "title": "Traceur: traceur-compiler-loader",
-          "description": null,
+          "description": "PatrickJS/traceur-compiler-loader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1031,7 +1031,7 @@
         {
           "node_type": "item",
           "title": "Babel: duo-babel",
-          "description": null,
+          "description": "babel/duo-babel",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1055,7 +1055,7 @@
         {
           "node_type": "item",
           "title": "TypeScript: duo-typescript",
-          "description": null,
+          "description": "frankwallis/duo-typescript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1082,7 +1082,7 @@
         {
           "node_type": "item",
           "title": "Babel: babel-connect",
-          "description": null,
+          "description": "babel/babel-connect",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1105,7 +1105,7 @@
         {
           "node_type": "item",
           "title": "TypeScript: typescript-middleware",
-          "description": null,
+          "description": "brn/typescript-middleware",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1132,7 +1132,7 @@
         {
           "node_type": "item",
           "title": "Babel: gobble-babel",
-          "description": null,
+          "description": "babel/gobble-babel",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1156,7 +1156,7 @@
         {
           "node_type": "item",
           "title": "Traceur: gobble-es6-transpiler",
-          "description": null,
+          "description": "gobblejs/gobble-es6-transpiler",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1183,7 +1183,7 @@
         {
           "node_type": "item",
           "title": "Babel: jade-babel",
-          "description": null,
+          "description": "babel/jade-babel",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1213,7 +1213,7 @@
         {
           "node_type": "item",
           "title": "Babel: babel-jest",
-          "description": null,
+          "description": "babel/babel-jest",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1242,7 +1242,7 @@
         {
           "node_type": "item",
           "title": "Babel: karma-babel-preprocessor",
-          "description": null,
+          "description": "babel/karma-babel-preprocessor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1263,7 +1263,7 @@
         {
           "node_type": "item",
           "title": "TypeScript: karma-typescript-preprocessor",
-          "description": null,
+          "description": "sergeyt/karma-typescript-preprocessor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1284,7 +1284,7 @@
         {
           "node_type": "item",
           "title": "Traceur: karma-traceur-preprocessor",
-          "description": null,
+          "description": "karma-runner/karma-traceur-preprocessor",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1311,7 +1311,7 @@
         {
           "node_type": "item",
           "title": "TypeScript: typescript-rails",
-          "description": null,
+          "description": "typescript-ruby/typescript-rails",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1332,7 +1332,7 @@
         {
           "node_type": "item",
           "title": "Traceur: sprockets-traceur",
-          "description": null,
+          "description": "gunpowderlabs/sprockets-traceur",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1407,7 +1407,7 @@
         {
           "node_type": "item",
           "title": "Babel Module Loader",
-          "description": null,
+          "description": "babel/babel-loader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1420,7 +1420,7 @@
             "open_issues": 67,
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4834,
+            "stars": 4833,
             "topics": [
               "babel",
               "loader",
@@ -1549,7 +1549,7 @@
         {
           "node_type": "item",
           "title": "Loom generators with ES6 ember modules",
-          "description": null,
+          "description": "ryanflorence/loom-generators-ember",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1648,7 +1648,7 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T09:05:46Z",
+            "last_commit": "2026-10-02T20:24:25Z",
             "open_issues": 45,
             "owner": "zloirock",
             "repo": "core-js",
@@ -1720,7 +1720,7 @@
         {
           "node_type": "item",
           "title": "ES6 shim",
-          "description": null,
+          "description": "inexorabletash/polyfill",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1744,7 +1744,7 @@
         {
           "node_type": "item",
           "title": "object-assign",
-          "description": null,
+          "description": "sindresorhus/object-assign",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1792,7 +1792,7 @@
         {
           "node_type": "item",
           "title": "ES6 Symbol polyfill",
-          "description": null,
+          "description": "medikoo/es6-symbol",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1813,7 +1813,7 @@
         {
           "node_type": "item",
           "title": "String.prototype.startsWith",
-          "description": null,
+          "description": "mathiasbynens/String.prototype.startsWith",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1826,7 +1826,7 @@
             "open_issues": 0,
             "owner": "mathiasbynens",
             "repo": "String.prototype.startsWith",
-            "stars": 142,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -1834,7 +1834,7 @@
         {
           "node_type": "item",
           "title": "String.prototype.includes",
-          "description": null,
+          "description": "mathiasbynens/String.prototype.includes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1855,7 +1855,7 @@
         {
           "node_type": "item",
           "title": "Array.from",
-          "description": null,
+          "description": "mathiasbynens/Array.from",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1876,7 +1876,7 @@
         {
           "node_type": "item",
           "title": "String.fromCodePoint",
-          "description": null,
+          "description": "mathiasbynens/String.fromCodePoint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1897,7 +1897,7 @@
         {
           "node_type": "item",
           "title": "String.prototype.codePointAt",
-          "description": null,
+          "description": "mathiasbynens/String.prototype.codePointAt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1918,7 +1918,7 @@
         {
           "node_type": "item",
           "title": "String.prototype.at",
-          "description": null,
+          "description": "mathiasbynens/String.prototype.at",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1939,7 +1939,7 @@
         {
           "node_type": "item",
           "title": "Polymer's WeakMap shim",
-          "description": null,
+          "description": "googlearchive/WeakMap",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1952,7 +1952,7 @@
             "open_issues": 0,
             "owner": "googlearchive",
             "repo": "WeakMap",
-            "stars": 48,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -1960,7 +1960,7 @@
         {
           "node_type": "item",
           "title": "Array.prototype.find",
-          "description": null,
+          "description": "es-shims/Array.prototype.find",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1981,7 +1981,7 @@
         {
           "node_type": "item",
           "title": "String.prototype.endsWith",
-          "description": null,
+          "description": "mathiasbynens/String.prototype.endsWith",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2002,7 +2002,7 @@
         {
           "node_type": "item",
           "title": "String.prototype.repeat",
-          "description": null,
+          "description": "mathiasbynens/String.prototype.repeat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2023,7 +2023,7 @@
         {
           "node_type": "item",
           "title": "Array.prototype.findIndex",
-          "description": null,
+          "description": "es-shims/Array.prototype.findIndex",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2065,7 +2065,7 @@
         {
           "node_type": "item",
           "title": "is-finite",
-          "description": null,
+          "description": "sindresorhus/is-finite",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2086,7 +2086,7 @@
         {
           "node_type": "item",
           "title": "Array.of",
-          "description": null,
+          "description": "mathiasbynens/Array.of",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2107,7 +2107,7 @@
         {
           "node_type": "item",
           "title": "math-sign",
-          "description": null,
+          "description": "sindresorhus/math-sign",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2128,7 +2128,7 @@
         {
           "node_type": "item",
           "title": "RegExp.prototype.match",
-          "description": null,
+          "description": "mathiasbynens/RegExp.prototype.match",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2149,7 +2149,7 @@
         {
           "node_type": "item",
           "title": "Function.create.js",
-          "description": null,
+          "description": "walling/Function.create.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2170,7 +2170,7 @@
         {
           "node_type": "item",
           "title": "RegExp.prototype.search",
-          "description": null,
+          "description": "mathiasbynens/RegExp.prototype.search",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2191,7 +2191,7 @@
         {
           "node_type": "item",
           "title": "ES6 Map, Set, WeakMap",
-          "description": null,
+          "description": "EliSnow/Blitz-Collections",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2249,7 +2249,7 @@
         {
           "node_type": "item",
           "title": "ES6 syntax highlighting for Sublime Text and TextMate",
-          "description": null,
+          "description": "Benvie/JavaScriptNext.tmLanguage",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2331,7 +2331,7 @@
             "open_issues": 44,
             "owner": "estree",
             "repo": "estree",
-            "stars": 5437,
+            "stars": 5436,
             "topics": [
               "ast",
               "estree",
@@ -2393,7 +2393,7 @@
         {
           "node_type": "item",
           "title": "Isparta",
-          "description": null,
+          "description": "douglasduteil/isparta",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:51:58.856Z",
+    "last_updated": "2026-10-03T04:51:41.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",

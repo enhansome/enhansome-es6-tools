@@ -2,7 +2,7 @@
 
 ## Transpilers
 
-* [Babel](https://github.com/babel/babel) ⭐ 44,045 | 🐛 770 | 🌐 TypeScript | 📅 2026-10-02 - Turn ES6+ code into vanilla ES5 with no runtime
+* [Babel](https://github.com/babel/babel) ⭐ 44,046 | 🐛 768 | 🌐 TypeScript | 📅 2026-10-02 - Turn ES6+ code into vanilla ES5 with no runtime
 * [Traceur compiler](https://github.com/google/traceur-compiler) ⚠️ Archived - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 * [Lebab](https://github.com/mohebifar/lebab) ⭐ 5,633 | 🐛 37 | 🌐 JavaScript | 📅 2026-04-01 - Transformations for ES5 code to ES6 (approximates)
 * Facebook's [regenerator](https://github.com/facebook/regenerator) ⚠️ Archived - transform ES6 yield/generator functions to ES5
@@ -32,7 +32,7 @@
 
 ### Grunt Tasks
 
-* Babel: [grunt-babel](https://github.com/babel/grunt-babel) ⭐ 434 | 🐛 24 | 🌐 JavaScript | 📅 2026-06-18 - Turn ES6+ code into vanilla ES5 with no runtime
+* Babel: [grunt-babel](https://github.com/babel/grunt-babel) ⭐ 433 | 🐛 24 | 🌐 JavaScript | 📅 2026-06-18 - Turn ES6+ code into vanilla ES5 with no runtime
 * TypeScript: [grunt-ts](https://github.com/TypeStrong/grunt-ts) ⭐ 327 | 🐛 81 | 🌐 JavaScript | 📅 2022-12-07 - ES6+ > ES5/ES3 transpilation
 * Traceur: [grunt-traceur](https://github.com/aaronfrost/grunt-traceur) ⭐ 202 | 🐛 9 | 🌐 JavaScript | 📅 2022-12-06 ES6 > ES5 transpilation, [grunt-traceur-build](https://github.com/tarruda/grunt-traceur-build) ⭐ 8 | 🐛 1 | 🌐 JavaScript | 📅 2016-02-21
 * ES6 Module Transpiler: [grunt-es6-module-transpiler](https://github.com/joefiorini/grunt-es6-module-transpiler) ⭐ 82 | 🐛 3 | 🌐 JavaScript | 📅 2016-02-20
@@ -59,7 +59,7 @@
 
 ## Webpack plugins
 
-* Babel: [babel-loader](https://github.com/babel/babel-loader) ⭐ 4,834 | 🐛 67 | 🌐 JavaScript | 📅 2026-09-03
+* Babel: [babel-loader](https://github.com/babel/babel-loader) ⭐ 4,833 | 🐛 67 | 🌐 JavaScript | 📅 2026-09-03
 * TypeScript: [awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader) ⚠️ Archived
 * Traceur: [traceur-compiler-loader](https://github.com/gdi2290/traceur-compiler-loader) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2015-03-08
 
@@ -110,7 +110,7 @@
 
 ## Module Loaders
 
-* [Babel Module Loader](https://github.com/babel/babel-loader) ⭐ 4,834 | 🐛 67 | 🌐 JavaScript | 📅 2026-09-03
+* [Babel Module Loader](https://github.com/babel/babel-loader) ⭐ 4,833 | 🐛 67 | 🌐 JavaScript | 📅 2026-09-03
 * ES6 [Module Loader polyfill](https://github.com/ModuleLoader/es6-module-loader) ⚠️ Archived (compat with latest spec and Traceur)
 * [js-loaders](https://github.com/jorendorff/js-loaders) ⚠️ Archived - Mozilla's spec-compliant loader prototype
 * [beck.js](https://github.com/unscriptable/beck) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2013-12-17 - toolkit for ES6 Module Loader pipelines, shim for legacy environments
@@ -132,14 +132,14 @@
 
 ## Polyfills
 
-* [core-js](https://github.com/zloirock/core-js) ⭐ 25,534 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-02 - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel) ⭐ 44,045 | 🐛 770 | 🌐 TypeScript | 📅 2026-10-02.
+* [core-js](https://github.com/zloirock/core-js) ⭐ 25,534 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-02 - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel) ⭐ 44,046 | 🐛 768 | 🌐 TypeScript | 📅 2026-10-02.
 * [es6-promise](https://github.com/jakearchibald/es6-promise) ⭐ 7,249 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - polyfill for Promises matching the ES6 API
 * [es6-shim](https://github.com/paulmillr/es6-shim) ⚠️ Archived - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
 * [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md) ⚠️ Archived
 * [`Object.assign`](https://github.com/sindresorhus/object-assign) ⭐ 916 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18
 * [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) ⭐ 482 | 🐛 8 | 🌐 JavaScript | 📅 2024-01-15 - ES6 [reflection module](http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api) (contains the [Proxy API](http://soft.vub.ac.be/~tvcutsem/proxies/))
 * [ES6 Symbol polyfill](https://github.com/medikoo/es6-symbol) ⭐ 179 | 🐛 2 | 🌐 JavaScript | 📅 2024-03-01
-* [`String.prototype.startsWith`](https://github.com/mathiasbynens/String.prototype.startsWith) ⭐ 142 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-27
+* [`String.prototype.startsWith`](https://github.com/mathiasbynens/String.prototype.startsWith) ⭐ 141 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-27
 * [`String.prototype.includes`](https://github.com/mathiasbynens/String.prototype.includes) ⭐ 70 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-15
 * [`Array.from`](https://github.com/mathiasbynens/Array.from) ⭐ 66 | 🐛 0 | 🌐 JavaScript | 📅 2024-03-23
 * [`String.fromCodePoint`](https://github.com/mathiasbynens/String.fromCodePoint) ⭐ 60 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-06
@@ -173,7 +173,7 @@
 
 * [Acorn](https://github.com/ternjs/acorn) ⭐ 11,453 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-27 - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format.
 * [Traceur compiler](https://github.com/google/traceur-compiler) ⚠️ Archived also has built-in parser available under `traceur.syntax.Parser`.
-* [Esprima](http://esprima.org) - JavaScript parser supporting ES6, parses to [ESTree AST format](https://github.com/estree/estree) ⭐ 5,437 | 🐛 44 | 📅 2026-05-01
+* [Esprima](http://esprima.org) - JavaScript parser supporting ES6, parses to [ESTree AST format](https://github.com/estree/estree) ⭐ 5,436 | 🐛 44 | 📅 2026-05-01
 * [esparse](https://github.com/zenparsing/esparse) ⭐ 115 | 🐛 0 | 🌐 JavaScript | 📅 2018-09-21 - ES6 parser written in ES6.
 
 ## Other
@@ -196,4 +196,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
