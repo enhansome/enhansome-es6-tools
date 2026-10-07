@@ -15,11 +15,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T15:38:04Z",
-            "open_issues": 770,
+            "last_commit": "2026-10-07T09:58:57Z",
+            "open_issues": 778,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44137,
+            "stars": 44139,
             "topics": [
               "ast",
               "babel",
@@ -48,7 +48,7 @@
             "open_issues": 292,
             "owner": "google",
             "repo": "traceur-compiler",
-            "stars": 8126,
+            "stars": 8125,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -573,7 +573,7 @@
                 "open_issues": 81,
                 "owner": "TypeStrong",
                 "repo": "grunt-ts",
-                "stars": 327,
+                "stars": 326,
                 "topics": [
                   "grunt",
                   "grunt-task",
@@ -1648,7 +1648,7 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T12:19:55Z",
+            "last_commit": "2026-10-07T06:19:18Z",
             "open_issues": 44,
             "owner": "zloirock",
             "repo": "core-js",
@@ -1707,7 +1707,7 @@
             "open_issues": 0,
             "owner": "paulmillr",
             "repo": "es6-shim",
-            "stars": 3099,
+            "stars": 3098,
             "topics": [
               "ecmascript",
               "ecmascript6",
@@ -2285,11 +2285,11 @@
             "id": 5932749,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-05T12:47:05Z",
+            "last_commit": "2026-10-07T13:12:27Z",
             "open_issues": 14,
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11454,
+            "stars": 11455,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2310,7 +2310,7 @@
             "open_issues": 292,
             "owner": "google",
             "repo": "traceur-compiler",
-            "stars": 8126,
+            "stars": 8125,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2382,7 +2382,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-21T18:07:46Z",
-            "open_issues": 200,
+            "open_issues": 201,
             "owner": "benjamn",
             "repo": "recast",
             "stars": 5253,
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:15:49.993Z",
+    "last_updated": "2026-10-07T19:40:22.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
