@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-09T05:14:53Z",
-            "open_issues": 783,
+            "open_issues": 784,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44136,
+            "stars": 44137,
             "topics": [
               "ast",
               "babel",
@@ -1649,10 +1649,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-08T14:04:11Z",
-            "open_issues": 44,
+            "open_issues": 46,
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25531,
+            "stars": 25530,
             "topics": [
               "ecmascript-proposals",
               "es2015",
@@ -2289,7 +2289,7 @@
             "open_issues": 15,
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11457,
+            "stars": 11459,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:10:47.752Z",
+    "last_updated": "2026-10-10T18:09:10.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
