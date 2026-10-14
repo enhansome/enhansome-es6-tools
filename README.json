@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-12T07:07:52Z",
-            "open_issues": 783,
+            "open_issues": 784,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44137,
+            "stars": 44045,
             "topics": [
               "ast",
               "babel",
@@ -1648,11 +1648,11 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T18:48:38Z",
-            "open_issues": 44,
+            "last_commit": "2026-10-14T16:53:02Z",
+            "open_issues": 47,
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25529,
+            "stars": 25528,
             "topics": [
               "ecmascript-proposals",
               "es2015",
@@ -1686,7 +1686,7 @@
             "open_issues": 26,
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7248,
+            "stars": 7247,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2285,11 +2285,11 @@
             "id": 5932749,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-12T08:50:52Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-14T18:01:50Z",
+            "open_issues": 15,
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11463,
+            "stars": 11462,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2331,7 +2331,7 @@
             "open_issues": 44,
             "owner": "estree",
             "repo": "estree",
-            "stars": 5435,
+            "stars": 5436,
             "topics": [
               "ast",
               "estree",
@@ -2381,11 +2381,11 @@
             "id": 5905681,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-21T18:07:46Z",
+            "last_commit": "2026-10-14T13:37:27Z",
             "open_issues": 202,
             "owner": "benjamn",
             "repo": "recast",
-            "stars": 5254,
+            "stars": 5253,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:00:19.304Z",
+    "last_updated": "2026-10-14T18:14:51.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
