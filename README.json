@@ -15,11 +15,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T07:07:52Z",
-            "open_issues": 784,
+            "last_commit": "2026-10-14T22:28:20Z",
+            "open_issues": 783,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44045,
+            "stars": 44049,
             "topics": [
               "ast",
               "babel",
@@ -48,7 +48,7 @@
             "open_issues": 292,
             "owner": "google",
             "repo": "traceur-compiler",
-            "stars": 8125,
+            "stars": 8124,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -69,7 +69,7 @@
             "open_issues": 37,
             "owner": "lebab",
             "repo": "lebab",
-            "stars": 5634,
+            "stars": 5633,
             "topics": [
               "compiler",
               "es2015",
@@ -967,7 +967,7 @@
             "open_issues": 67,
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4834,
+            "stars": 4835,
             "topics": [
               "babel",
               "loader",
@@ -992,7 +992,7 @@
             "open_issues": 233,
             "owner": "s-panferov",
             "repo": "awesome-typescript-loader",
-            "stars": 2339,
+            "stars": 2338,
             "topics": [
               "loader",
               "typescript",
@@ -1420,7 +1420,7 @@
             "open_issues": 67,
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4834,
+            "stars": 4835,
             "topics": [
               "babel",
               "loader",
@@ -1648,11 +1648,11 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T16:53:02Z",
-            "open_issues": 47,
+            "last_commit": "2026-10-15T10:49:23Z",
+            "open_issues": 44,
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25528,
+            "stars": 25531,
             "topics": [
               "ecmascript-proposals",
               "es2015",
@@ -2289,7 +2289,7 @@
             "open_issues": 15,
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11462,
+            "stars": 11460,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2310,7 +2310,7 @@
             "open_issues": 292,
             "owner": "google",
             "repo": "traceur-compiler",
-            "stars": 8125,
+            "stars": 8124,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2331,7 +2331,7 @@
             "open_issues": 44,
             "owner": "estree",
             "repo": "estree",
-            "stars": 5436,
+            "stars": 5435,
             "topics": [
               "ast",
               "estree",
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:14:51.046Z",
+    "last_updated": "2026-10-15T17:57:00.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
@@ -2600,7 +2600,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2019-10-31T18:55:04Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "addyosmani",
       "repo": "es6-tools",
       "stars": 3974,
