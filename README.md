@@ -2,7 +2,7 @@
 
 ## Transpilers
 
-* [Babel](https://github.com/babel/babel) ⭐ 44,058 | 🐛 784 | 🌐 TypeScript | 📅 2026-10-16 - Turn ES6+ code into vanilla ES5 with no runtime
+* [Babel](https://github.com/babel/babel) ⭐ 44,056 | 🐛 784 | 🌐 TypeScript | 📅 2026-10-16 - Turn ES6+ code into vanilla ES5 with no runtime
 * [Traceur compiler](https://github.com/google/traceur-compiler) ⚠️ Archived - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 * [Lebab](https://github.com/mohebifar/lebab) ⭐ 5,632 | 🐛 37 | 🌐 JavaScript | 📅 2026-04-01 - Transformations for ES5 code to ES6 (approximates)
 * Facebook's [regenerator](https://github.com/facebook/regenerator) ⚠️ Archived - transform ES6 yield/generator functions to ES5
@@ -21,7 +21,7 @@
 
 ### Gulp Plugins
 
-* Babel: [gulp-babel](https://github.com/babel/gulp-babel) ⭐ 1,306 | 🐛 33 | 🌐 JavaScript | 📅 2026-07-21
+* Babel: [gulp-babel](https://github.com/babel/gulp-babel) ⭐ 1,306 | 🐛 33 | 🌐 JavaScript | 📅 2026-10-18
 * TypeScript: [gulp-typescript](https://github.com/ivogabe/gulp-typescript) ⭐ 851 | 🐛 62 | 🌐 JavaScript | 📅 2023-02-02
 * Traceur: [gulp-traceur](https://github.com/sindresorhus/gulp-traceur) ⚠️ Archived
 * ES6 Module Transpiler: [gulp-es6-module-transpiler](https://github.com/ryanseddon/gulp-es6-module-transpiler) ⭐ 61 | 🐛 6 | 🌐 JavaScript | 📅 2022-03-09
@@ -132,7 +132,7 @@
 
 ## Polyfills
 
-* [core-js](https://github.com/zloirock/core-js) ⭐ 25,530 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-17 - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel) ⭐ 44,058 | 🐛 784 | 🌐 TypeScript | 📅 2026-10-16.
+* [core-js](https://github.com/zloirock/core-js) ⭐ 25,531 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-18 - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel) ⭐ 44,056 | 🐛 784 | 🌐 TypeScript | 📅 2026-10-16.
 * [es6-promise](https://github.com/jakearchibald/es6-promise) ⭐ 7,247 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - polyfill for Promises matching the ES6 API
 * [es6-shim](https://github.com/paulmillr/es6-shim) ⚠️ Archived - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
 * [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md) ⚠️ Archived
@@ -178,7 +178,7 @@
 
 ## Other
 
-* [Recast](https://github.com/benjamn/recast) ⭐ 5,253 | 🐛 202 | 🌐 TypeScript | 📅 2026-10-14 - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator](https://github.com/facebook/regenerator) ⚠️ Archived and [es6-arrow-function](https://github.com/esnext/es6-arrow-function) ⚠️ Archived.
+* [Recast](https://github.com/benjamn/recast) ⭐ 5,253 | 🐛 204 | 🌐 TypeScript | 📅 2026-10-14 - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator](https://github.com/facebook/regenerator) ⚠️ Archived and [es6-arrow-function](https://github.com/esnext/es6-arrow-function) ⚠️ Archived.
 * [Isparta](https://github.com/douglasduteil/isparta) ⚠️ Archived
 * [Paws on ES6](https://github.com/hemanth/paws-on-es6) ⭐ 327 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-03 -  Minimalist examples of ES6 functionalities.
 * [ES.next showcase](https://github.com/sindresorhus/esnext-showcase) ⚠️ Archived - real-world usage examples of ES6 features
@@ -196,4 +196,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

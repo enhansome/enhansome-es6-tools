@@ -19,7 +19,7 @@
             "open_issues": 784,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44058,
+            "stars": 44056,
             "topics": [
               "ast",
               "babel",
@@ -340,7 +340,7 @@
                 "id": 24635108,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-07-21T18:39:23Z",
+                "last_commit": "2026-10-18T11:11:17Z",
                 "open_issues": 33,
                 "owner": "babel",
                 "repo": "gulp-babel",
@@ -1648,11 +1648,11 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T15:18:03Z",
+            "last_commit": "2026-10-18T00:30:44Z",
             "open_issues": 44,
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25530,
+            "stars": 25531,
             "topics": [
               "ecmascript-proposals",
               "es2015",
@@ -1707,7 +1707,7 @@
             "open_issues": 0,
             "owner": "paulmillr",
             "repo": "es6-shim",
-            "stars": 3096,
+            "stars": 3095,
             "topics": [
               "ecmascript",
               "ecmascript6",
@@ -2382,7 +2382,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-14T13:37:27Z",
-            "open_issues": 202,
+            "open_issues": 204,
             "owner": "benjamn",
             "repo": "recast",
             "stars": 5253,
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:46:34.949Z",
+    "last_updated": "2026-10-18T17:01:38.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
@@ -2603,7 +2603,7 @@
       "open_issues": 15,
       "owner": "addyosmani",
       "repo": "es6-tools",
-      "stars": 3974,
+      "stars": 3973,
       "topics": []
     },
     "original_repository_sha": "0f2b035833ad9c7158e216f2ffc6bd3774e9689c",
