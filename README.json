@@ -15,11 +15,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T14:52:05Z",
+            "last_commit": "2026-10-22T14:07:36Z",
             "open_issues": 814,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44044,
+            "stars": 44042,
             "topics": [
               "ast",
               "babel",
@@ -69,7 +69,7 @@
             "open_issues": 35,
             "owner": "lebab",
             "repo": "lebab",
-            "stars": 5631,
+            "stars": 5630,
             "topics": [
               "compiler",
               "es2015",
@@ -117,7 +117,7 @@
             "open_issues": 14,
             "owner": "babel",
             "repo": "babelify",
-            "stars": 1675,
+            "stars": 1674,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -344,7 +344,7 @@
                 "open_issues": 33,
                 "owner": "babel",
                 "repo": "gulp-babel",
-                "stars": 1306,
+                "stars": 1305,
                 "topics": [
                   "babel",
                   "gulp-plugin"
@@ -1648,8 +1648,8 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T17:48:23Z",
-            "open_issues": 51,
+            "last_commit": "2026-10-22T17:36:00Z",
+            "open_issues": 53,
             "owner": "zloirock",
             "repo": "core-js",
             "stars": 25525,
@@ -1707,7 +1707,7 @@
             "open_issues": 0,
             "owner": "paulmillr",
             "repo": "es6-shim",
-            "stars": 3095,
+            "stars": 3094,
             "topics": [
               "ecmascript",
               "ecmascript6",
@@ -2289,7 +2289,7 @@
             "open_issues": 16,
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11463,
+            "stars": 11461,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:19:43.625Z",
+    "last_updated": "2026-10-22T18:13:44.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
