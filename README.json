@@ -15,11 +15,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T17:13:10Z",
+            "last_commit": "2026-10-23T22:44:47Z",
             "open_issues": 810,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44044,
+            "stars": 44045,
             "topics": [
               "ast",
               "babel",
@@ -48,7 +48,7 @@
             "open_issues": 292,
             "owner": "google",
             "repo": "traceur-compiler",
-            "stars": 8125,
+            "stars": 8124,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -1648,11 +1648,11 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T16:59:53Z",
+            "last_commit": "2026-10-24T16:34:01Z",
             "open_issues": 50,
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25525,
+            "stars": 25526,
             "topics": [
               "ecmascript-proposals",
               "es2015",
@@ -2310,7 +2310,7 @@
             "open_issues": 292,
             "owner": "google",
             "repo": "traceur-compiler",
-            "stars": 8125,
+            "stars": 8124,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2331,7 +2331,7 @@
             "open_issues": 44,
             "owner": "estree",
             "repo": "estree",
-            "stars": 5437,
+            "stars": 5438,
             "topics": [
               "ast",
               "estree",
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:02:48.709Z",
+    "last_updated": "2026-10-24T17:08:36.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
