@@ -2,11 +2,11 @@
 
 ## Transpilers
 
-* [Babel](https://github.com/babel/babel) ⭐ 44,050 | 🐛 811 | 🌐 TypeScript | 📅 2026-10-26 - Turn ES6+ code into vanilla ES5 with no runtime
+* [Babel](https://github.com/babel/babel) ⭐ 44,051 | 🐛 812 | 🌐 TypeScript | 📅 2026-10-27 - Turn ES6+ code into vanilla ES5 with no runtime
 * [Traceur compiler](https://github.com/google/traceur-compiler) ⚠️ Archived - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 * [Lebab](https://github.com/mohebifar/lebab) ⭐ 5,631 | 🐛 35 | 🌐 JavaScript | 📅 2026-10-19 - Transformations for ES5 code to ES6 (approximates)
 * Facebook's [regenerator](https://github.com/facebook/regenerator) ⚠️ Archived - transform ES6 yield/generator functions to ES5
-* [babelify](https://github.com/babel/babelify) ⭐ 1,674 | 🐛 14 | 🌐 JavaScript | 📅 2021-08-06 - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform
+* [babelify](https://github.com/babel/babelify) ⭐ 1,673 | 🐛 14 | 🌐 JavaScript | 📅 2021-08-06 - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform
 * Square's [es6-module-transpiler](https://github.com/esnext/es6-module-transpiler) ⚠️ Archived - ES6 modules to AMD or CJS
 * [es6ify](https://github.com/thlorenz/es6ify) ⭐ 591 | 🐛 15 | 🌐 JavaScript | 📅 2017-06-12 - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform
 * Facebook's [jstransform](https://github.com/facebookarchive/jstransform) ⚠️ Archived - A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms
@@ -59,7 +59,7 @@
 
 ## Webpack plugins
 
-* Babel: [babel-loader](https://github.com/babel/babel-loader) ⭐ 4,836 | 🐛 67 | 🌐 JavaScript | 📅 2026-09-03
+* Babel: [babel-loader](https://github.com/babel/babel-loader) ⭐ 4,835 | 🐛 67 | 🌐 JavaScript | 📅 2026-09-03
 * TypeScript: [awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader) ⚠️ Archived
 * Traceur: [traceur-compiler-loader](https://github.com/gdi2290/traceur-compiler-loader) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2015-03-08
 
@@ -110,7 +110,7 @@
 
 ## Module Loaders
 
-* [Babel Module Loader](https://github.com/babel/babel-loader) ⭐ 4,836 | 🐛 67 | 🌐 JavaScript | 📅 2026-09-03
+* [Babel Module Loader](https://github.com/babel/babel-loader) ⭐ 4,835 | 🐛 67 | 🌐 JavaScript | 📅 2026-09-03
 * ES6 [Module Loader polyfill](https://github.com/ModuleLoader/es6-module-loader) ⚠️ Archived (compat with latest spec and Traceur)
 * [js-loaders](https://github.com/jorendorff/js-loaders) ⚠️ Archived - Mozilla's spec-compliant loader prototype
 * [beck.js](https://github.com/unscriptable/beck) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2013-12-17 - toolkit for ES6 Module Loader pipelines, shim for legacy environments
@@ -132,7 +132,7 @@
 
 ## Polyfills
 
-* [core-js](https://github.com/zloirock/core-js) ⭐ 25,528 | 🐛 50 | 🌐 JavaScript | 📅 2026-10-26 - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel) ⭐ 44,050 | 🐛 811 | 🌐 TypeScript | 📅 2026-10-26.
+* [core-js](https://github.com/zloirock/core-js) ⭐ 25,528 | 🐛 50 | 🌐 JavaScript | 📅 2026-10-27 - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel](https://github.com/babel/babel) ⭐ 44,051 | 🐛 812 | 🌐 TypeScript | 📅 2026-10-27.
 * [es6-promise](https://github.com/jakearchibald/es6-promise) ⭐ 7,248 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - polyfill for Promises matching the ES6 API
 * [es6-shim](https://github.com/paulmillr/es6-shim) ⚠️ Archived - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
 * [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md) ⚠️ Archived
@@ -171,7 +171,7 @@
 
 ## Parsers
 
-* [Acorn](https://github.com/ternjs/acorn) ⭐ 11,469 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-21 - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format.
+* [Acorn](https://github.com/ternjs/acorn) ⭐ 11,471 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-21 - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format.
 * [Traceur compiler](https://github.com/google/traceur-compiler) ⚠️ Archived also has built-in parser available under `traceur.syntax.Parser`.
 * [Esprima](http://esprima.org) - JavaScript parser supporting ES6, parses to [ESTree AST format](https://github.com/estree/estree) ⭐ 5,439 | 🐛 44 | 📅 2026-05-01
 * [esparse](https://github.com/zenparsing/esparse) ⭐ 115 | 🐛 0 | 🌐 JavaScript | 📅 2018-09-21 - ES6 parser written in ES6.
@@ -196,4 +196,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
