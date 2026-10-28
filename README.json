@@ -15,11 +15,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T18:17:38Z",
-            "open_issues": 812,
+            "last_commit": "2026-10-28T18:35:08Z",
+            "open_issues": 762,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44051,
+            "stars": 44053,
             "topics": [
               "ast",
               "babel",
@@ -48,7 +48,7 @@
             "open_issues": 292,
             "owner": "google",
             "repo": "traceur-compiler",
-            "stars": 8124,
+            "stars": 8125,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -94,7 +94,7 @@
             "license": "MIT",
             "last_commit": "2024-02-29T11:04:34Z",
             "open_issues": 81,
-            "owner": "facebook",
+            "owner": "meta",
             "repo": "regenerator",
             "stars": 3822,
             "topics": []
@@ -1648,7 +1648,7 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T19:00:52Z",
+            "last_commit": "2026-10-28T18:34:27Z",
             "open_issues": 50,
             "owner": "zloirock",
             "repo": "core-js",
@@ -2289,7 +2289,7 @@
             "open_issues": 17,
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11471,
+            "stars": 11472,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2310,7 +2310,7 @@
             "open_issues": 292,
             "owner": "google",
             "repo": "traceur-compiler",
-            "stars": 8124,
+            "stars": 8125,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2328,10 +2328,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-05-01T13:47:12Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "estree",
             "repo": "estree",
-            "stars": 5439,
+            "stars": 5438,
             "topics": [
               "ast",
               "estree",
@@ -2385,7 +2385,7 @@
             "open_issues": 202,
             "owner": "benjamn",
             "repo": "recast",
-            "stars": 5256,
+            "stars": 5257,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:09:32.187Z",
+    "last_updated": "2026-10-28T19:13:38.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
