@@ -15,11 +15,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T18:16:19Z",
-            "open_issues": 749,
+            "last_commit": "2026-10-31T18:02:01Z",
+            "open_issues": 741,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44056,
+            "stars": 44054,
             "topics": [
               "ast",
               "babel",
@@ -1648,7 +1648,7 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T18:26:44Z",
+            "last_commit": "2026-10-31T18:00:34Z",
             "open_issues": 46,
             "owner": "zloirock",
             "repo": "core-js",
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:56:33.397Z",
+    "last_updated": "2026-10-31T18:05:53.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
