@@ -15,11 +15,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T20:17:32Z",
-            "open_issues": 747,
+            "last_commit": "2026-11-04T19:04:27Z",
+            "open_issues": 746,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44055,
+            "stars": 44054,
             "topics": [
               "ast",
               "babel",
@@ -48,7 +48,7 @@
             "open_issues": 292,
             "owner": "google",
             "repo": "traceur-compiler",
-            "stars": 8124,
+            "stars": 8123,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -96,7 +96,7 @@
             "open_issues": 81,
             "owner": "meta",
             "repo": "regenerator",
-            "stars": 3821,
+            "stars": 3820,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -138,7 +138,7 @@
             "open_issues": 12,
             "owner": "esnext",
             "repo": "es6-module-transpiler",
-            "stars": 1201,
+            "stars": 1200,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -1648,7 +1648,7 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T15:03:04Z",
+            "last_commit": "2026-11-04T15:26:08Z",
             "open_issues": 45,
             "owner": "zloirock",
             "repo": "core-js",
@@ -2310,7 +2310,7 @@
             "open_issues": 292,
             "owner": "google",
             "repo": "traceur-compiler",
-            "stars": 8124,
+            "stars": 8123,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:22:08.383Z",
+    "last_updated": "2026-11-04T20:37:56.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
