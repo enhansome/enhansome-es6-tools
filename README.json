@@ -15,11 +15,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T19:31:00Z",
-            "open_issues": 761,
+            "last_commit": "2026-11-11T20:09:28Z",
+            "open_issues": 752,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44055,
+            "stars": 44057,
             "topics": [
               "ast",
               "babel",
@@ -117,7 +117,7 @@
             "open_issues": 14,
             "owner": "babel",
             "repo": "babelify",
-            "stars": 1673,
+            "stars": 1672,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -1648,11 +1648,11 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T20:20:19Z",
-            "open_issues": 46,
+            "last_commit": "2026-11-11T19:44:39Z",
+            "open_issues": 47,
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25515,
+            "stars": 25516,
             "topics": [
               "ecmascript-proposals",
               "es2015",
@@ -1686,7 +1686,7 @@
             "open_issues": 26,
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7247,
+            "stars": 7246,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2385,7 +2385,7 @@
             "open_issues": 174,
             "owner": "benjamn",
             "repo": "recast",
-            "stars": 5257,
+            "stars": 5258,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:40:18.620Z",
+    "last_updated": "2026-11-11T21:00:22.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
