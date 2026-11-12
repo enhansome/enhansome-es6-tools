@@ -15,8 +15,8 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T20:09:28Z",
-            "open_issues": 752,
+            "last_commit": "2026-11-12T17:18:15Z",
+            "open_issues": 751,
             "owner": "babel",
             "repo": "babel",
             "stars": 44057,
@@ -96,7 +96,7 @@
             "open_issues": 81,
             "owner": "meta",
             "repo": "regenerator",
-            "stars": 3818,
+            "stars": 3819,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -341,7 +341,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-05T03:13:13Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "babel",
                 "repo": "gulp-babel",
                 "stars": 1305,
@@ -1648,8 +1648,8 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T19:44:39Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-12T20:38:49Z",
+            "open_issues": 45,
             "owner": "zloirock",
             "repo": "core-js",
             "stars": 25516,
@@ -2382,10 +2382,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-09T00:29:58Z",
-            "open_issues": 174,
+            "open_issues": 175,
             "owner": "benjamn",
             "repo": "recast",
-            "stars": 5258,
+            "stars": 5259,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:00:22.589Z",
+    "last_updated": "2026-11-12T21:15:55.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
