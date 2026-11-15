@@ -15,8 +15,8 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T18:43:49Z",
-            "open_issues": 751,
+            "last_commit": "2026-11-15T17:13:37Z",
+            "open_issues": 754,
             "owner": "babel",
             "repo": "babel",
             "stars": 44062,
@@ -96,7 +96,7 @@
             "open_issues": 81,
             "owner": "meta",
             "repo": "regenerator",
-            "stars": 3819,
+            "stars": 3820,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -1648,11 +1648,11 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T18:41:19Z",
+            "last_commit": "2026-11-15T19:00:55Z",
             "open_issues": 45,
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25515,
+            "stars": 25516,
             "topics": [
               "ecmascript-proposals",
               "es2015",
@@ -1757,7 +1757,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "object-assign",
-            "stars": 917,
+            "stars": 918,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -1805,7 +1805,7 @@
             "open_issues": 2,
             "owner": "medikoo",
             "repo": "es6-symbol",
-            "stars": 178,
+            "stars": 179,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2289,7 +2289,7 @@
             "open_issues": 16,
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11474,
+            "stars": 11476,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2385,7 +2385,7 @@
             "open_issues": 175,
             "owner": "benjamn",
             "repo": "recast",
-            "stars": 5259,
+            "stars": 5258,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:55:02.372Z",
+    "last_updated": "2026-11-15T19:30:40.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
