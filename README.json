@@ -15,11 +15,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T16:53:29Z",
-            "open_issues": 752,
+            "last_commit": "2026-11-20T21:31:06Z",
+            "open_issues": 741,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44075,
+            "stars": 44074,
             "topics": [
               "ast",
               "babel",
@@ -117,7 +117,7 @@
             "open_issues": 14,
             "owner": "babel",
             "repo": "babelify",
-            "stars": 1672,
+            "stars": 1673,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -138,7 +138,7 @@
             "open_issues": 12,
             "owner": "esnext",
             "repo": "es6-module-transpiler",
-            "stars": 1200,
+            "stars": 1199,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -1648,11 +1648,11 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T20:42:05Z",
-            "open_issues": 43,
+            "last_commit": "2026-11-20T19:51:17Z",
+            "open_issues": 42,
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25515,
+            "stars": 25516,
             "topics": [
               "ecmascript-proposals",
               "es2015",
@@ -1686,7 +1686,7 @@
             "open_issues": 26,
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7245,
+            "stars": 7244,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -1707,7 +1707,7 @@
             "open_issues": 0,
             "owner": "paulmillr",
             "repo": "es6-shim",
-            "stars": 3092,
+            "stars": 3091,
             "topics": [
               "ecmascript",
               "ecmascript6",
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T21:56:21.208Z",
+    "last_updated": "2026-11-20T21:38:45.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
