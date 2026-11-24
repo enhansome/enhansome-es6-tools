@@ -15,11 +15,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T00:13:45Z",
-            "open_issues": 738,
+            "last_commit": "2026-11-24T19:57:51Z",
+            "open_issues": 739,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44076,
+            "stars": 44074,
             "topics": [
               "ast",
               "babel",
@@ -48,7 +48,7 @@
             "open_issues": 292,
             "owner": "google",
             "repo": "traceur-compiler",
-            "stars": 8119,
+            "stars": 8118,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -69,7 +69,7 @@
             "open_issues": 36,
             "owner": "lebab",
             "repo": "lebab",
-            "stars": 5628,
+            "stars": 5626,
             "topics": [
               "compiler",
               "es2015",
@@ -96,7 +96,7 @@
             "open_issues": 81,
             "owner": "meta",
             "repo": "regenerator",
-            "stars": 3820,
+            "stars": 3819,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -967,7 +967,7 @@
             "open_issues": 67,
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4833,
+            "stars": 4831,
             "topics": [
               "babel",
               "loader",
@@ -992,7 +992,7 @@
             "open_issues": 233,
             "owner": "s-panferov",
             "repo": "awesome-typescript-loader",
-            "stars": 2336,
+            "stars": 2335,
             "topics": [
               "loader",
               "typescript",
@@ -1420,7 +1420,7 @@
             "open_issues": 67,
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4833,
+            "stars": 4831,
             "topics": [
               "babel",
               "loader",
@@ -1648,11 +1648,11 @@
             "id": 11481338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T00:11:03Z",
+            "last_commit": "2026-11-24T22:58:59Z",
             "open_issues": 42,
             "owner": "zloirock",
             "repo": "core-js",
-            "stars": 25513,
+            "stars": 25510,
             "topics": [
               "ecmascript-proposals",
               "es2015",
@@ -1686,7 +1686,7 @@
             "open_issues": 26,
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7243,
+            "stars": 7242,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -1707,7 +1707,7 @@
             "open_issues": 0,
             "owner": "paulmillr",
             "repo": "es6-shim",
-            "stars": 3090,
+            "stars": 3088,
             "topics": [
               "ecmascript",
               "ecmascript6",
@@ -1733,7 +1733,7 @@
             "open_issues": 18,
             "owner": "inexorabletash",
             "repo": "polyfill",
-            "stars": 1350,
+            "stars": 1349,
             "topics": [
               "javascript",
               "polyfills"
@@ -2289,7 +2289,7 @@
             "open_issues": 16,
             "owner": "acornjs",
             "repo": "acorn",
-            "stars": 11481,
+            "stars": 11479,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2310,7 +2310,7 @@
             "open_issues": 292,
             "owner": "google",
             "repo": "traceur-compiler",
-            "stars": 8119,
+            "stars": 8118,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2385,7 +2385,7 @@
             "open_issues": 177,
             "owner": "benjamn",
             "repo": "recast",
-            "stars": 5256,
+            "stars": 5254,
             "topics": []
           },
           "first_seen": "2026-08-28T23:21:04.321Z"
@@ -2591,7 +2591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T01:26:45.391Z",
+    "last_updated": "2026-11-24T23:20:34.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "An aggregation of tooling for using ES6 today",
@@ -2603,7 +2603,7 @@
       "open_issues": 14,
       "owner": "addyosmani",
       "repo": "es6-tools",
-      "stars": 3973,
+      "stars": 3972,
       "topics": []
     },
     "original_repository_sha": "0f2b035833ad9c7158e216f2ffc6bd3774e9689c",
